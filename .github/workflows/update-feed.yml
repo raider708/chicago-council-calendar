@@ -1,0 +1,39 @@
+name: Update council calendar feed
+
+on:
+  schedule:
+    # Hourly at :17 (GitHub's cron is UTC; exact start can lag a few minutes)
+    - cron: "17 * * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button for manual refreshes
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build feed from City Clerk API
+        run: python3 build_ics.py --out docs/chicago-council.ics
+
+      - name: Commit if the Clerk changed anything
+        run: |
+          if git diff --quiet -- docs/chicago-council.ics; then
+            echo "No changes from the Clerk this hour."
+            exit 0
+          fi
+          git config user.name  "council-feed-bot"
+          git config user.email "council-feed-bot@users.noreply.github.com"
+          git add docs/chicago-council.ics
+          git commit -m "Clerk update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

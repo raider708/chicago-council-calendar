@@ -512,9 +512,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:531b4778-99b7-f111-aaac-001dd80fdad3@chicityclerkelms.chicago.gov
-DTSTAMP:20260924T151524Z
-LAST-MODIFIED:20260924T151524Z
-SEQUENCE:3540435
+DTSTAMP:20261001T142131Z
+LAST-MODIFIED:20261001T142131Z
+SEQUENCE:3550461
 DTSTART:20261005T150000Z
 DTEND:20261005T170000Z
 SUMMARY:Committee on Finance
@@ -523,9 +523,10 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
 DESCRIPTION:Status: Scheduled & Published\nWritten public comment deadline:
   October 2\, 2026\, 10:00 AM\nNotice: https://occprodstoragev1.blob.core.u
  sgovcloudapi.net/meetingattachmentspublic/51e8f19b-99b7-f111-aaac-001dd80b
- 58e5.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetin
- gId=531B4778-99B7-F111-AAAC-001DD80FDAD3\nLast published by Clerk: 2026-09
- -24 15:15 UTC
+ 58e5.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/mee
+ tingattachmentspublic/d3f3d5d3-da10-4a65-9367-b00e89dd4023.pdf\nClerk page
+ : https://chicityclerkelms.chicago.gov/Meeting/?meetingId=531B4778-99B7-F1
+ 11-AAAC-001DD80FDAD3\nLast published by Clerk: 2026-10-01 14:21 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=531B4778-99B7-F
  111-AAAC-001DD80FDAD3
 STATUS:CONFIRMED

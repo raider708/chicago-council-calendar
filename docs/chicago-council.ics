@@ -346,9 +346,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:33c89f1a-a9ab-f111-aaab-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20260929T170023Z
-LAST-MODIFIED:20260929T170023Z
-SEQUENCE:3547740
+DTSTAMP:20261001T211807Z
+LAST-MODIFIED:20261001T211807Z
+SEQUENCE:3550878
 DTSTART:20261001T150000Z
 DTEND:20261001T170000Z
 SUMMARY:Committee on Health and Human Relations
@@ -359,9 +359,10 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  aac-001dd803894a.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
  dapi.net/meetingattachmentspublic/497cca35-b048-42a9-8218-43217a30c10a.pdf
  \nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingatta
- chmentspublic/570a772b-badd-4c71-827f-d0593cbe24d0.pdf\nClerk page: https:
- //chicityclerkelms.chicago.gov/Meeting/?meetingId=33C89F1A-A9AB-F111-AAAB-
- 001DD80FDA55\nLast published by Clerk: 2026-09-29 17:00 UTC
+ chmentspublic/570a772b-badd-4c71-827f-d0593cbe24d0.pdf\nVideo: https://vim
+ eo.com/showcase/8928590?video=1231373679\nClerk page: https://chicityclerk
+ elms.chicago.gov/Meeting/?meetingId=33C89F1A-A9AB-F111-AAAB-001DD80FDA55\n
+ Last published by Clerk: 2026-10-01 21:18 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=33C89F1A-A9AB-F
  111-AAAB-001DD80FDA55
 STATUS:CONFIRMED
@@ -395,9 +396,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:63cce87c-cba7-f111-b8dd-001dd803894a@chicityclerkelms.chicago.gov
-DTSTAMP:20260928T204516Z
-LAST-MODIFIED:20260928T204516Z
-SEQUENCE:3546525
+DTSTAMP:20261001T210017Z
+LAST-MODIFIED:20261001T210017Z
+SEQUENCE:3550860
 DTSTART:20261001T180000Z
 DTEND:20261001T200000Z
 SUMMARY:Committee on Police and Fire
@@ -407,9 +408,10 @@ DESCRIPTION:Status: Scheduled & Published\nWritten public comment deadline:
   September 29\, 2026\,  3:00 PM\nAgenda: https://occprodstoragev1.blob.cor
  e.usgovcloudapi.net/meetingattachmentspublic/8451298c-bb82-43e5-a209-ce5b9
  87bb398.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/
- meetingattachmentspublic/0d2ed3df-e96f-464a-98bb-c1cd24e04a59.pdf\nClerk p
- age: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=63CCE87C-CBA7
- -F111-B8DD-001DD803894A\nLast published by Clerk: 2026-09-28 20:45 UTC
+ meetingattachmentspublic/0d2ed3df-e96f-464a-98bb-c1cd24e04a59.pdf\nVideo: 
+ https://vimeo.com/showcase/9823060?video=1232120004\nClerk page: https://c
+ hicityclerkelms.chicago.gov/Meeting/?meetingId=63CCE87C-CBA7-F111-B8DD-001
+ DD803894A\nLast published by Clerk: 2026-10-01 21:00 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=63CCE87C-CBA7-F
  111-B8DD-001DD803894A
 STATUS:CONFIRMED

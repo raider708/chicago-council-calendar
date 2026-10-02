@@ -530,9 +530,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:769788b7-e0bc-f111-aaae-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261002T191556Z
-LAST-MODIFIED:20261002T191556Z
-SEQUENCE:3552195
+DTSTAMP:20261002T192911Z
+LAST-MODIFIED:20261002T192911Z
+SEQUENCE:3552209
 DTSTART:20261007T180000Z
 DTEND:20261007T200000Z
 SUMMARY:Committee on License and Consumer Protection
@@ -542,7 +542,7 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/71ec3cfc-3305-4f75-9
  916-78a0e32f1ddb.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
  ting/?meetingId=769788B7-E0BC-F111-AAAE-001DD80FDA55\nLast published by Cl
- erk: 2026-10-02 19:15 UTC
+ erk: 2026-10-02 19:29 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=769788B7-E0BC-F
  111-AAAE-001DD80FDA55
 STATUS:CONFIRMED
@@ -617,9 +617,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9ced9f-78bb-f111-aaae-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20260928T202028Z
-LAST-MODIFIED:20260928T202028Z
-SEQUENCE:3546500
+DTSTAMP:20261002T214021Z
+LAST-MODIFIED:20261002T214021Z
+SEQUENCE:3552340
 DTSTART:20261008T173000Z
 DTEND:20261008T193000Z
 SUMMARY:Committee on Environmental Protection and Energy
@@ -627,9 +627,11 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/b9c17e06-79bb-f111-a
- aae-001dd80aa3cc.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
- ting/?meetingId=AD9CED9F-78BB-F111-AAAE-001DD80AA3CC\nLast published by Cl
- erk: 2026-09-28 20:20 UTC
+ aae-001dd80aa3cc.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
+ dapi.net/meetingattachmentspublic/1dbadd3a-7f42-4cd1-ada9-0ea8af13d693.pdf
+ \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=AD9C
+ ED9F-78BB-F111-AAAE-001DD80AA3CC\nLast published by Clerk: 2026-10-02 21:4
+ 0 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=AD9CED9F-78BB-F
  111-AAAE-001DD80AA3CC
 STATUS:CONFIRMED

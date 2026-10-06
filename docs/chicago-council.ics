@@ -345,9 +345,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:30125fe9-53b8-f111-aaac-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20260924T201520Z
-LAST-MODIFIED:20260924T201520Z
-SEQUENCE:3540735
+DTSTAMP:20261005T200521Z
+LAST-MODIFIED:20261005T200521Z
+SEQUENCE:3556565
 DTSTART:20261005T150000Z
 DTEND:20261005T170000Z
 SUMMARY:Committee on Finance
@@ -358,9 +358,10 @@ DESCRIPTION:Status: Scheduled & Published\nIRC 147(f) required Public Heari
  es 2026 (Humbolt Village) in an amount not to exceed $22\,000\,000. Writte
  n Public Comment Deadline: October 2\, 2026\, 10:00 AM\nNotice: https://oc
  cprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4871c0
- 99-df96-411b-87d3-b31ad2407d4e.pdf\nClerk page: https://chicityclerkelms.c
- hicago.gov/Meeting/?meetingId=30125FE9-53B8-F111-AAAC-001DD80AA3CC\nLast p
- ublished by Clerk: 2026-09-24 20:15 UTC
+ 99-df96-411b-87d3-b31ad2407d4e.pdf\nVideo: https://vimeo.com/manage/videos
+ /1232129590\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?mee
+ tingId=30125FE9-53B8-F111-AAAC-001DD80AA3CC\nLast published by Clerk: 2026
+ -10-05 20:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=30125FE9-53B8-F
  111-AAAC-001DD80AA3CC
 STATUS:CONFIRMED
@@ -368,9 +369,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:531b4778-99b7-f111-aaac-001dd80fdad3@chicityclerkelms.chicago.gov
-DTSTAMP:20261002T151909Z
-LAST-MODIFIED:20261002T151909Z
-SEQUENCE:3551959
+DTSTAMP:20261005T203645Z
+LAST-MODIFIED:20261005T203645Z
+SEQUENCE:3556596
 DTSTART:20261005T150000Z
 DTEND:20261005T170000Z
 SUMMARY:Committee on Finance
@@ -380,9 +381,10 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
   October 2\, 2026\, 10:00 AM\nNotice: https://occprodstoragev1.blob.core.u
  sgovcloudapi.net/meetingattachmentspublic/51e8f19b-99b7-f111-aaac-001dd80b
  58e5.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/mee
- tingattachmentspublic/d3f3d5d3-da10-4a65-9367-b00e89dd4023.pdf\nClerk page
- : https://chicityclerkelms.chicago.gov/Meeting/?meetingId=531B4778-99B7-F1
- 11-AAAC-001DD80FDAD3\nLast published by Clerk: 2026-10-02 15:19 UTC
+ tingattachmentspublic/d3f3d5d3-da10-4a65-9367-b00e89dd4023.pdf\nVideo: htt
+ ps://vimeo.com/manage/videos/1232129590\nClerk page: https://chicityclerke
+ lms.chicago.gov/Meeting/?meetingId=531B4778-99B7-F111-AAAC-001DD80FDAD3\nL
+ ast published by Clerk: 2026-10-05 20:36 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=531B4778-99B7-F
  111-AAAC-001DD80FDAD3
 STATUS:CONFIRMED
@@ -390,9 +392,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:266a5a62-53b8-f111-aaac-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20260924T201019Z
-LAST-MODIFIED:20260924T201019Z
-SEQUENCE:3540730
+DTSTAMP:20261005T200518Z
+LAST-MODIFIED:20261005T200518Z
+SEQUENCE:3556565
 DTSTART:20261005T150000Z
 DTEND:20261005T170000Z
 SUMMARY:Committee on Finance
@@ -403,9 +405,10 @@ DESCRIPTION:Status: Scheduled & Published\nIRC 147(f) required Public Heari
  es 2026 (5853 N. Broadway) in an amount not to exceed $19\,500\,000. Writt
  en Public Comment Deadline: October 2\, 2026\, 10:00 AM\nNotice: https://o
  ccprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e78cb
- c6d-30bb-4471-9fb5-9c37ba563b17.pdf\nClerk page: https://chicityclerkelms.
- chicago.gov/Meeting/?meetingId=266A5A62-53B8-F111-AAAC-001DD80AA3CC\nLast 
- published by Clerk: 2026-09-24 20:10 UTC
+ c6d-30bb-4471-9fb5-9c37ba563b17.pdf\nVideo: https://vimeo.com/manage/video
+ s/1232129590\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?me
+ etingId=266A5A62-53B8-F111-AAAC-001DD80AA3CC\nLast published by Clerk: 202
+ 6-10-05 20:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=266A5A62-53B8-F
  111-AAAC-001DD80AA3CC
 STATUS:CONFIRMED
@@ -634,6 +637,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:dbee1c2a-fec0-f111-aaae-001dd803894a@chicityclerkelms.chicago.gov
+DTSTAMP:20261005T205518Z
+LAST-MODIFIED:20261005T205518Z
+SEQUENCE:3556615
+DTSTART:20261013T153000Z
+DTEND:20261013T173000Z
+SUMMARY:Committee on Special Events\, Cultural Affairs and Recreation
+LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
+ , IL 60602
+DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/07aa9790-fec0-f111-a
+ aae-001dd803847b.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
+ ting/?meetingId=DBEE1C2A-FEC0-F111-AAAE-001DD803894A\nLast published by Cl
+ erk: 2026-10-05 20:55 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=DBEE1C2A-FEC0-F
+ 111-AAAE-001DD803894A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:7c3df870-75be-f111-aaae-001dd80aa3cc@chicityclerkelms.chicago.gov
 DTSTAMP:20261002T153019Z
 LAST-MODIFIED:20261002T153019Z
@@ -741,9 +764,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f97d1d10-eabc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20260930T164520Z
-LAST-MODIFIED:20260930T164520Z
-SEQUENCE:3549165
+DTSTAMP:20261005T211518Z
+LAST-MODIFIED:20261005T211518Z
+SEQUENCE:3556635
 DTSTART:20261015T153000Z
 DTEND:20261015T173000Z
 SUMMARY:Committee on Immigrant and Refugee Rights
@@ -753,7 +776,7 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/d36b25a2-edbc-f111-a
  aae-001dd80aa3cc.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
  ting/?meetingId=F97D1D10-EABC-F111-AAAE-001DD80B58E5\nLast published by Cl
- erk: 2026-09-30 16:45 UTC
+ erk: 2026-10-05 21:15 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

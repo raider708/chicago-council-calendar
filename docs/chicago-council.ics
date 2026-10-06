@@ -8,52 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:93ac8cb4-8e87-f111-ab0e-001dd80be3c0@chicityclerkelms.chicago.gov
-DTSTAMP:20260831T163003Z
-LAST-MODIFIED:20260831T163003Z
-SEQUENCE:3505950
-DTSTART:20260922T150000Z
-DTEND:20260922T170000Z
-SUMMARY:CANCELLED: Committee on Zoning\, Landmarks and Building Standards
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Cancelled\nCancellation of scheduled vote for approval 
- of T-1 zoning map amendment at 170 W Washington St - Cannabis Establishmen
- t.\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingat
- tachmentspublic/ef684984-ba37-4ee7-9c05-948f51541ce3.pdf\nNotice: https://
- occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b0d2
- 4364-2a48-43ba-b794-73a64c52e2bf.pdf\nClerk page: https://chicityclerkelms
- .chicago.gov/Meeting/?meetingId=93AC8CB4-8E87-F111-AB0E-001DD80BE3C0\nLast
-  published by Clerk: 2026-08-31 16:30 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=93AC8CB4-8E87-F
- 111-AB0E-001DD80BE3C0
-STATUS:CANCELLED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:bdc8c0c1-8b87-f111-ab0e-001dd80be3c0@chicityclerkelms.chicago.gov
-DTSTAMP:20260923T115021Z
-LAST-MODIFIED:20260923T115021Z
-SEQUENCE:3538790
-DTSTART:20260922T150000Z
-DTEND:20260922T170000Z
-SUMMARY:Committee on Zoning\, Landmarks and Building Standards
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nWritten public comment deadline:
-   September 21\, 2026\, 8:00 AM\nNotice: https://occprodstoragev1.blob.cor
- e.usgovcloudapi.net/meetingattachmentspublic/164a0bd1-2fb7-44c8-9967-17f69
- c8ce381.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/
- meetingattachmentspublic/991474ce-af21-45e9-8c14-19fcdb315402.pdf\nVideo: 
- https://vimeo.com/showcase/8928576?video=1227817475\nClerk page: https://c
- hicityclerkelms.chicago.gov/Meeting/?meetingId=BDC8C0C1-8B87-F111-AB0E-001
- DD80BE3C0\nLast published by Clerk: 2026-09-23 11:50 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=BDC8C0C1-8B87-F
- 111-AB0E-001DD80BE3C0
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:aa65b062-89a8-f111-b8dd-001dd803894a@chicityclerkelms.chicago.gov
 DTSTAMP:20260922T221025Z
 LAST-MODIFIED:20260922T221025Z

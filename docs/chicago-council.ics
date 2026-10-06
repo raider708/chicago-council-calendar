@@ -8,85 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:aa65b062-89a8-f111-b8dd-001dd803894a@chicityclerkelms.chicago.gov
-DTSTAMP:20260922T221025Z
-LAST-MODIFIED:20260922T221025Z
-SEQUENCE:3537970
-DTSTART:20260922T153000Z
-DTEND:20260922T173000Z
-SUMMARY:Committee on Police and Fire
-LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
- , IL 60602
-DESCRIPTION:Status: Scheduled & Published\nWritten public comment deadline:
-  September 18\, 2026\, 3:00 PM\nSummary: https://occprodstoragev1.blob.cor
- e.usgovcloudapi.net/meetingattachmentspublic/1e5a4b10-9487-44ee-a842-5ae7c
- c1b70c8.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/
- meetingattachmentspublic/43879e79-4d98-461f-aaa9-2dd639700085.pdf\nNotice:
-  https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspu
- blic/02a0319e-23bf-44cf-bc8c-306a0bd20181.pdf\nVideo: https://vimeo.com/sh
- owcase/9823060?video=1227831734\nClerk page: https://chicityclerkelms.chic
- ago.gov/Meeting/?meetingId=AA65B062-89A8-F111-B8DD-001DD803894A\nLast publ
- ished by Clerk: 2026-09-22 22:10 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=AA65B062-89A8-F
- 111-B8DD-001DD803894A
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:1af98496-3d97-f111-ab0e-001dd80e4fde@chicityclerkelms.chicago.gov
-DTSTAMP:20260923T152534Z
-LAST-MODIFIED:20260923T152534Z
-SEQUENCE:3539005
-DTSTART:20260922T173000Z
-DTEND:20260922T193000Z
-SUMMARY:Committee on Contracting Oversight and Equity
-LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
- , IL 60602
-DESCRIPTION:Status: Scheduled & Published\nWritten public comment deadline:
-   September 21 2026\,  12:30 PM  No vote to be taken on Subject Matter Hea
- ring.\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetin
- gattachmentspublic/ccc9757f-6502-45cd-85b9-b3dbf2181544.pdf\nNotice: https
- ://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2
- ac11402-2912-4658-9c96-a51bcdece337.pdf\nNotice: https://occprodstoragev1.
- blob.core.usgovcloudapi.net/meetingattachmentspublic/a7b17ff2-ea89-402b-8b
- 48-6f2a57560208.pdf\nSummary: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/59ca7eee-5936-4318-9607-56cc917c7966.pdf
- \nVideo: https://vimeo.com/showcase/8928505?video=1229230583\nClerk page: 
- https://chicityclerkelms.chicago.gov/Meeting/?meetingId=1AF98496-3D97-F111
- -AB0E-001DD80E4FDE\nLast published by Clerk: 2026-09-23 15:25 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=1AF98496-3D97-F
- 111-AB0E-001DD80E4FDE
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:266d113e-7ab3-f111-aaab-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20260922T233023Z
-LAST-MODIFIED:20260922T233023Z
-SEQUENCE:3538050
-DTSTART:20260922T184500Z
-DTEND:20260922T204500Z
-SUMMARY:Committee on Finance (Recessed)
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Recessed\nWritten public comment deadline: September 19
- \, 2026\, 1:45 PM\nAgenda: https://occprodstoragev1.blob.core.usgovcloudap
- i.net/meetingattachmentspublic/0f515b7a-4fd1-4ca8-b742-7cb6d0c228cc.pdf\nN
- otice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachm
- entspublic/1b076c6e-7ab3-f111-aaab-001dd80aa3cc.pdf\nSummary: https://occp
- rodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/0243f0f9
- -28e4-40bf-a8d9-354171d6a16e.pdf\nNotice: https://occprodstoragev1.blob.co
- re.usgovcloudapi.net/meetingattachmentspublic/23950cff-d9b6-f111-aaac-001d
- d80fda55.pdf\nVideo: https://vimeo.com/showcase/8928482?video=1229284895\n
- Clerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=266D11
- 3E-7AB3-F111-AAAB-001DD80AA3CC\nLast published by Clerk: 2026-09-22 23:30 
- UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=266D113E-7AB3-F
- 111-AAAB-001DD80AA3CC
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:5f86622e-f485-f111-ab0e-001dd80ed7aa@chicityclerkelms.chicago.gov
 DTSTAMP:20260923T213531Z
 LAST-MODIFIED:20260923T213531Z
@@ -528,9 +449,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:251a0456-0cb9-f111-aaac-001dd80fdad3@chicityclerkelms.chicago.gov
-DTSTAMP:20260928T140827Z
-LAST-MODIFIED:20260928T140827Z
-SEQUENCE:3546128
+DTSTAMP:20261006T172320Z
+LAST-MODIFIED:20261006T172320Z
+SEQUENCE:3557843
 DTSTART:20261008T180000Z
 DTEND:20261008T200000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
@@ -539,9 +460,11 @@ LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
 DESCRIPTION:Status: Scheduled & Published\nWritten Comments due October 7\,
   2026 at 1:00 PM\nComments are to be sent to ectd@cityfochicago.org\nNotic
  e: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachments
- public/a1c2b643-8a4d-477c-9438-4f59e6446598.pdf\nClerk page: https://chici
- tyclerkelms.chicago.gov/Meeting/?meetingId=251A0456-0CB9-F111-AAAC-001DD80
- FDAD3\nLast published by Clerk: 2026-09-28 14:08 UTC
+ public/a1c2b643-8a4d-477c-9438-4f59e6446598.pdf\nAgenda: https://occprodst
+ oragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/aebf6585-834e
+ -49c3-9833-c7e67a24e45b.pdf\nClerk page: https://chicityclerkelms.chicago.
+ gov/Meeting/?meetingId=251A0456-0CB9-F111-AAAC-001DD80FDAD3\nLast publishe
+ d by Clerk: 2026-10-06 17:23 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=251A0456-0CB9-F
  111-AAAC-001DD80FDAD3
 STATUS:CONFIRMED
@@ -549,9 +472,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c0886d80-0ab9-f111-aaac-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261001T194853Z
-LAST-MODIFIED:20261001T194853Z
-SEQUENCE:3550788
+DTSTAMP:20261006T201550Z
+LAST-MODIFIED:20261006T201550Z
+SEQUENCE:3558015
 DTSTART:20261009T153000Z
 DTEND:20261009T173000Z
 SUMMARY:Committee on Pedestrian and Traffic Safety
@@ -561,9 +484,11 @@ DESCRIPTION:Status: Scheduled & Published\nDirect Introduction Deadline is
  5:00pm Tuesday September 29th\nNotice: https://occprodstoragev1.blob.core.
  usgovcloudapi.net/meetingattachmentspublic/83fffb6a-0bb9-f111-aaac-001dd80
  3894a.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/me
- etingattachmentspublic/57db25a7-6e4d-40ac-9843-e8ad10c8a4bb.pdf\nClerk pag
- e: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F
- 111-AAAC-001DD80FDA55\nLast published by Clerk: 2026-10-01 19:48 UTC
+ etingattachmentspublic/57db25a7-6e4d-40ac-9843-e8ad10c8a4bb.pdf\nAgenda: h
+ ttps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubl
+ ic/66d40ed1-cefd-47e3-9586-e76aebf87983.pdf\nClerk page: https://chicitycl
+ erkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F111-AAAC-001DD80FDA5
+ 5\nLast published by Clerk: 2026-10-06 20:15 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F
  111-AAAC-001DD80FDA55
 STATUS:CONFIRMED
@@ -718,9 +643,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f97d1d10-eabc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261005T211518Z
-LAST-MODIFIED:20261005T211518Z
-SEQUENCE:3556635
+DTSTAMP:20261006T195519Z
+LAST-MODIFIED:20261006T195519Z
+SEQUENCE:3557995
 DTSTART:20261015T153000Z
 DTEND:20261015T173000Z
 SUMMARY:Committee on Immigrant and Refugee Rights
@@ -728,9 +653,11 @@ LOCATION:Room 201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chi
  cago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/d36b25a2-edbc-f111-a
- aae-001dd80aa3cc.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
- ting/?meetingId=F97D1D10-EABC-F111-AAAE-001DD80B58E5\nLast published by Cl
- erk: 2026-10-05 21:15 UTC
+ aae-001dd80aa3cc.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
+ dapi.net/meetingattachmentspublic/c283ae24-bfc1-f111-aaae-001dd80efcf5.pdf
+ \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D
+ 1D10-EABC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-06 19:5
+ 5 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

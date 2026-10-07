@@ -291,9 +291,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d36223d9-04b9-f111-aaac-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261005T150019Z
-LAST-MODIFIED:20261005T150019Z
-SEQUENCE:3556260
+DTSTAMP:20261006T204517Z
+LAST-MODIFIED:20261006T204517Z
+SEQUENCE:3558045
 DTSTART:20261007T150000Z
 DTEND:20261007T170000Z
 SUMMARY:Committee on Transportation and Public Way
@@ -304,9 +304,11 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
  yofchicago.org\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.n
  et/meetingattachmentspublic/33025997-e4bc-f111-aaae-001dd80aa3cc.pdf\nAgen
  da: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachment
- spublic/47bfa64b-2c30-44a2-bea2-da71cf62b833.pdf\nClerk page: https://chic
- ityclerkelms.chicago.gov/Meeting/?meetingId=D36223D9-04B9-F111-AAAC-001DD8
- 0B58E5\nLast published by Clerk: 2026-10-05 15:00 UTC
+ spublic/47bfa64b-2c30-44a2-bea2-da71cf62b833.pdf\nAgenda: https://occprods
+ toragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/337d2a48-1bc
+ 1-48e5-b7e9-421de15b1638.pdf\nClerk page: https://chicityclerkelms.chicago
+ .gov/Meeting/?meetingId=D36223D9-04B9-F111-AAAC-001DD80B58E5\nLast publish
+ ed by Clerk: 2026-10-06 20:45 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=D36223D9-04B9-F
  111-AAAC-001DD80B58E5
 STATUS:CONFIRMED

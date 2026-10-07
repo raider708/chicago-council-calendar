@@ -8,28 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:5f86622e-f485-f111-ab0e-001dd80ed7aa@chicityclerkelms.chicago.gov
-DTSTAMP:20260923T213531Z
-LAST-MODIFIED:20260923T213531Z
-SEQUENCE:3539375
-DTSTART:20260923T150000Z
-DTEND:20260923T190000Z
-SUMMARY:City Council
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/0453fb95-f485-f111-a
- b0e-001dd8036800.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/3c45558c-4276-444e-8e33-940aedd27693.pdf
- \nVideo: https://vimeo.com/showcase/citycouncil?video=1229341127\nClerk pa
- ge: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=5F86622E-F485-
- F111-AB0E-001DD80ED7AA\nLast published by Clerk: 2026-09-23 21:35 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=5F86622E-F485-F
- 111-AB0E-001DD80ED7AA
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:fb63a09d-d9b6-f111-aaac-001dd80aa3cc@chicityclerkelms.chicago.gov
 DTSTAMP:20260924T193518Z
 LAST-MODIFIED:20260924T193518Z

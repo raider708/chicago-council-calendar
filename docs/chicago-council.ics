@@ -320,9 +320,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:769788b7-e0bc-f111-aaae-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261007T205642Z
-LAST-MODIFIED:20261007T205642Z
-SEQUENCE:3559496
+DTSTAMP:20261007T215458Z
+LAST-MODIFIED:20261007T215458Z
+SEQUENCE:3559554
 DTSTART:20261007T180000Z
 DTEND:20261007T200000Z
 SUMMARY:Committee on License and Consumer Protection
@@ -334,7 +334,7 @@ DESCRIPTION:Status: Scheduled & Published\nAgenda: https://occprodstoragev1
  dapi.net/meetingattachmentspublic/71ec3cfc-3305-4f75-9916-78a0e32f1ddb.pdf
  \nVideo: https://vimeo.com/manage/videos/1233779359\nClerk page: https://c
  hicityclerkelms.chicago.gov/Meeting/?meetingId=769788B7-E0BC-F111-AAAE-001
- DD80FDA55\nLast published by Clerk: 2026-10-07 20:56 UTC
+ DD80FDA55\nLast published by Clerk: 2026-10-07 21:54 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=769788B7-E0BC-F
  111-AAAE-001DD80FDA55
 STATUS:CONFIRMED
@@ -588,9 +588,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:62158d66-d2c0-f111-aaae-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20261007T170517Z
-LAST-MODIFIED:20261007T170517Z
-SEQUENCE:3559265
+DTSTAMP:20261007T222017Z
+LAST-MODIFIED:20261007T222017Z
+SEQUENCE:3559580
 DTSTART:20261013T183000Z
 DTEND:20261013T203000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -598,14 +598,13 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nMeeting to commence at 1:30 PM o
  r immidiately after Committee on Finance adjourns.\n\nWritten Public Comme
- nt Deadline: October 12\, 2026\, 9:00 AM\nAgenda: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/092ced0c-b2e1-46ad-9
- c09-0874aa8ec872.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/9dcdf800-3455-4826-ad17-262de031051d.pdf
- \nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingatta
- chmentspublic/406274ad-6eab-43cc-a934-804587bef51a.pdf\nClerk page: https:
- //chicityclerkelms.chicago.gov/Meeting/?meetingId=62158D66-D2C0-F111-AAAE-
- 001DD80AA3CC\nLast published by Clerk: 2026-10-07 17:05 UTC
+ nt Deadline: October 12\, 2026\, 9:00 AM\nNotice: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/9dcdf800-3455-4826-a
+ d17-262de031051d.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclou
+ dapi.net/meetingattachmentspublic/406274ad-6eab-43cc-a934-804587bef51a.pdf
+ \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6215
+ 8D66-D2C0-F111-AAAE-001DD80AA3CC\nLast published by Clerk: 2026-10-07 22:2
+ 0 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=62158D66-D2C0-F
  111-AAAE-001DD80AA3CC
 STATUS:CONFIRMED

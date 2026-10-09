@@ -419,9 +419,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:251a0456-0cb9-f111-aaac-001dd80fdad3@chicityclerkelms.chicago.gov
-DTSTAMP:20261008T220245Z
-LAST-MODIFIED:20261008T220245Z
-SEQUENCE:3561002
+DTSTAMP:20261008T221908Z
+LAST-MODIFIED:20261008T221908Z
+SEQUENCE:3561019
 DTSTART:20261008T180000Z
 DTEND:20261008T200000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
@@ -435,7 +435,7 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Comments due October 7\,
  -49c3-9833-c7e67a24e45b.pdf\nVideo: https://vimeo.com/showcase/8928495?vid
  eo=1234158910\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?m
  eetingId=251A0456-0CB9-F111-AAAC-001DD80FDAD3\nLast published by Clerk: 20
- 26-10-08 22:02 UTC
+ 26-10-08 22:19 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=251A0456-0CB9-F
  111-AAAC-001DD80FDAD3
 STATUS:CONFIRMED

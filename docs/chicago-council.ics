@@ -8,31 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:e9ed48ee-61b7-f111-aaac-001dd803894a@chicityclerkelms.chicago.gov
-DTSTAMP:20261008T173519Z
-LAST-MODIFIED:20261008T173519Z
-SEQUENCE:3560735
-DTSTART:20260925T150000Z
-DTEND:20260925T190000Z
-SUMMARY:City Council
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting For immediate co
- nsideration of SO2026-0025407\, a substitute ordinance authorizing approva
- l of ownership transfer pursuant to Chicago Metered Parking System Concess
- ion Agreement\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.ne
- t/meetingattachmentspublic/b1e06d95-6c46-4fd4-9c70-417ee52c51d2.pdf\nAgend
- a: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachments
- public/cdd5b5f7-2811-42f3-bcbc-b9c5ba787135.pdf\nVideo: https://vimeo.com/
- 1229992624\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meet
- ingId=E9ED48EE-61B7-F111-AAAC-001DD803894A\nLast published by Clerk: 2026-
- 10-08 17:35 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=E9ED48EE-61B7-F
- 111-AAAC-001DD803894A
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:294e5a7c-8ba8-f111-b8dd-001dd80fda55@chicityclerkelms.chicago.gov
 DTSTAMP:20260924T223020Z
 LAST-MODIFIED:20260924T223020Z
@@ -467,9 +442,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3fc06450-8ab7-f111-aaac-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20261008T145017Z
-LAST-MODIFIED:20261008T145017Z
-SEQUENCE:3560570
+DTSTAMP:20261009T135020Z
+LAST-MODIFIED:20261009T135020Z
+SEQUENCE:3561950
 DTSTART:20261013T150000Z
 DTEND:20261013T170000Z
 SUMMARY:Committee on Zoning\, Landmarks and Building Standards
@@ -481,9 +456,11 @@ DESCRIPTION:Status: Scheduled & Published\nWritten public comment deadline:
  5103.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/mee
  tingattachmentspublic/51f5fc2e-298d-4f91-9c63-09ec8101632d.pdf\nAgenda: ht
  tps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubli
- c/e71942ac-349e-4a06-a846-e25513497d01.pdf\nClerk page: https://chicitycle
- rkelms.chicago.gov/Meeting/?meetingId=3FC06450-8AB7-F111-AAAC-001DD80AA3CC
- \nLast published by Clerk: 2026-10-08 14:50 UTC
+ c/e71942ac-349e-4a06-a846-e25513497d01.pdf\nAgenda: https://occprodstorage
+ v1.blob.core.usgovcloudapi.net/meetingattachmentspublic/ad26295a-e3da-4371
+ -84a1-8941f91edfb4.pdf\nClerk page: https://chicityclerkelms.chicago.gov/M
+ eeting/?meetingId=3FC06450-8AB7-F111-AAAC-001DD80AA3CC\nLast published by 
+ Clerk: 2026-10-09 13:50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3FC06450-8AB7-F
  111-AAAC-001DD80AA3CC
 STATUS:CONFIRMED
@@ -536,20 +513,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:7c3df870-75be-f111-aaae-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20261002T153019Z
-LAST-MODIFIED:20261002T153019Z
-SEQUENCE:3551970
+DTSTAMP:20261009T140023Z
+LAST-MODIFIED:20261009T140023Z
+SEQUENCE:3561960
 DTSTART:20261013T170000Z
 DTEND:20261013T190000Z
 SUMMARY:Committee on Aviation
 LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
  , IL 60602
 DESCRIPTION:Status: Scheduled & Published\nWritten public comment deadline:
-   October 9\, 2026\, 10:00 AM\nNotice: https://occprodstoragev1.blob.core.
- usgovcloudapi.net/meetingattachmentspublic/8562f409-eabe-4e89-b3e0-2fe8f20
- 9aea7.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeti
- ngId=7C3DF870-75BE-F111-AAAE-001DD80AA3CC\nLast published by Clerk: 2026-1
- 0-02 15:30 UTC
+   October 9\, 2026\, 10:00 AM\nAgenda: https://occprodstoragev1.blob.core.
+ usgovcloudapi.net/meetingattachmentspublic/239bd7d7-b18c-4296-96d9-cbb33a6
+ d9cf6.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/me
+ etingattachmentspublic/8562f409-eabe-4e89-b3e0-2fe8f209aea7.pdf\nClerk pag
+ e: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=7C3DF870-75BE-F
+ 111-AAAE-001DD80AA3CC\nLast published by Clerk: 2026-10-09 14:00 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=7C3DF870-75BE-F
  111-AAAE-001DD80AA3CC
 STATUS:CONFIRMED

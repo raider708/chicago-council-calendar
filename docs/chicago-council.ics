@@ -472,9 +472,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:0b2a9146-77be-f111-aaae-001dd80efcf5@chicityclerkelms.chicago.gov
-DTSTAMP:20261009T212727Z
-LAST-MODIFIED:20261009T212727Z
-SEQUENCE:3562407
+DTSTAMP:20261009T225922Z
+LAST-MODIFIED:20261009T225922Z
+SEQUENCE:3562499
 DTSTART:20261013T153000Z
 DTEND:20261013T173000Z
 SUMMARY:Committee on Ethics and Government Oversight
@@ -486,10 +486,12 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  dapi.net/meetingattachmentspublic/b262da39-9077-4397-9022-d01700e6b641.pdf
  \nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingatta
  chmentspublic/bb4d27c0-8dc2-f111-aaae-001dd80fda55.pdf\nAgenda: https://oc
- cprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2fc049
- 94-ca38-4424-9ff9-b131f43f89c8.pdf\nClerk page: https://chicityclerkelms.c
- hicago.gov/Meeting/?meetingId=0B2A9146-77BE-F111-AAAE-001DD80EFCF5\nLast p
- ublished by Clerk: 2026-10-09 21:27 UTC
+ cprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/661876
+ 80-c1dd-4baa-9752-e635f548e479.pdf\nAgenda: https://occprodstoragev1.blob.
+ core.usgovcloudapi.net/meetingattachmentspublic/2fc04994-ca38-4424-9ff9-b1
+ 31f43f89c8.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?
+ meetingId=0B2A9146-77BE-F111-AAAE-001DD80EFCF5\nLast published by Clerk: 2
+ 026-10-09 22:59 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=0B2A9146-77BE-F
  111-AAAE-001DD80EFCF5
 STATUS:CONFIRMED
@@ -588,9 +590,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:39fe6ee4-2fbc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261009T203020Z
-LAST-MODIFIED:20261009T203020Z
-SEQUENCE:3562350
+DTSTAMP:20261009T232020Z
+LAST-MODIFIED:20261009T232020Z
+SEQUENCE:3562520
 DTSTART:20261014T150000Z
 DTEND:20261014T190000Z
 SUMMARY:City Council
@@ -598,9 +600,11 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/5dc2983c-30bc-f111-a
- aae-001dd803894a.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
- ting/?meetingId=39FE6EE4-2FBC-F111-AAAE-001DD80B58E5\nLast published by Cl
- erk: 2026-10-09 20:30 UTC
+ aae-001dd803894a.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
+ dapi.net/meetingattachmentspublic/7ad74e3d-811e-4504-93a7-a7d70d4cff3b.pdf
+ \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE
+ 6EE4-2FBC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-09 23:2
+ 0 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE6EE4-2FBC-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

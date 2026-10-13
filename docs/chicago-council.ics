@@ -8,72 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:294e5a7c-8ba8-f111-b8dd-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20260924T223020Z
-LAST-MODIFIED:20260924T223020Z
-SEQUENCE:3540870
-DTSTART:20260929T150000Z
-DTEND:20260929T170000Z
-SUMMARY:CANCELLED: Committee on Environmental Protection and Energy
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Cancelled\nCancelled\nNotice: https://occprodstoragev1.
- blob.core.usgovcloudapi.net/meetingattachmentspublic/c7133ba4-66b8-f111-aa
- ac-001dd80fda55.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloud
- api.net/meetingattachmentspublic/cb339afa-8ba8-f111-b8dd-001dd80fda55.pdf\
- nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=294E5
- A7C-8BA8-F111-B8DD-001DD80FDA55\nLast published by Clerk: 2026-09-24 22:30
-  UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=294E5A7C-8BA8-F
- 111-B8DD-001DD80FDA55
-STATUS:CANCELLED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:e9154ab7-96b7-f111-aaac-001dd803894a@chicityclerkelms.chicago.gov
-DTSTAMP:20260929T193019Z
-LAST-MODIFIED:20260929T193019Z
-SEQUENCE:3547890
-DTSTART:20260929T150000Z
-DTEND:20260929T190000Z
-SUMMARY:City Council
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nAgenda: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/ebd1cf9a-4a01-4c85-9
- 13d-81a37bda644c.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/fafaea1d-99b7-f111-aaac-001dd80fda55.pdf
- \nVideo: https://vimeo.com/showcase/citycouncil?video=1230273462\nClerk pa
- ge: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=E9154AB7-96B7-
- F111-AAAC-001DD803894A\nLast published by Clerk: 2026-09-29 19:30 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=E9154AB7-96B7-F
- 111-AAAC-001DD803894A
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:3776b514-dda6-f111-b8dd-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20260924T205518Z
-LAST-MODIFIED:20260924T205518Z
-SEQUENCE:3540775
-DTSTART:20260929T173000Z
-DTEND:20260929T193000Z
-SUMMARY:CANCELLED: Committee on Education and Child Development
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Cancelled\nCancelled.\nNotice: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/8b9f64ef-09cb-4d47-9
- dc2-f08b4d88f377.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/e6a0ac97-3817-4a72-8f0e-44aa82aa5cd3.pdf
- \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3776
- B514-DDA6-F111-B8DD-001DD80FDA55\nLast published by Clerk: 2026-09-24 20:5
- 5 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3776B514-DDA6-F
- 111-B8DD-001DD80FDA55
-STATUS:CANCELLED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:33c89f1a-a9ab-f111-aaab-001dd80fda55@chicityclerkelms.chicago.gov
 DTSTAMP:20261008T201603Z
 LAST-MODIFIED:20261008T201603Z
@@ -421,9 +355,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c0886d80-0ab9-f111-aaac-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261009T190855Z
-LAST-MODIFIED:20261009T190855Z
-SEQUENCE:3562268
+DTSTAMP:20261013T134052Z
+LAST-MODIFIED:20261013T134052Z
+SEQUENCE:3567700
 DTSTART:20261009T153000Z
 DTEND:20261009T173000Z
 SUMMARY:Committee on Pedestrian and Traffic Safety
@@ -435,10 +369,11 @@ DESCRIPTION:Status: Scheduled & Published\nDirect Introduction Deadline is
  3894a.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/me
  etingattachmentspublic/57db25a7-6e4d-40ac-9843-e8ad10c8a4bb.pdf\nAgenda: h
  ttps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubl
- ic/66d40ed1-cefd-47e3-9586-e76aebf87983.pdf\nVideo: https://vimeo.com/1234
- 177208\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingI
- d=C0886D80-0AB9-F111-AAAC-001DD80FDA55\nLast published by Clerk: 2026-10-0
- 9 19:08 UTC
+ ic/66d40ed1-cefd-47e3-9586-e76aebf87983.pdf\nSummary: https://occprodstora
+ gev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/689cb18c-442b-4d
+ bb-a22b-6eafbd046254.pdf\nVideo: https://vimeo.com/1234177208\nClerk page:
+  https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F11
+ 1-AAAC-001DD80FDA55\nLast published by Clerk: 2026-10-13 13:40 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F
  111-AAAC-001DD80FDA55
 STATUS:CONFIRMED
@@ -590,9 +525,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:39fe6ee4-2fbc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261009T232020Z
-LAST-MODIFIED:20261009T232020Z
-SEQUENCE:3562520
+DTSTAMP:20261013T172520Z
+LAST-MODIFIED:20261013T172520Z
+SEQUENCE:3567925
 DTSTART:20261014T150000Z
 DTEND:20261014T190000Z
 SUMMARY:City Council
@@ -603,8 +538,8 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  aae-001dd803894a.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
  dapi.net/meetingattachmentspublic/7ad74e3d-811e-4504-93a7-a7d70d4cff3b.pdf
  \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE
- 6EE4-2FBC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-09 23:2
- 0 UTC
+ 6EE4-2FBC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-13 17:2
+ 5 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE6EE4-2FBC-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

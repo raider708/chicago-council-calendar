@@ -308,9 +308,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ad9ced9f-78bb-f111-aaae-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20261014T174020Z
-LAST-MODIFIED:20261014T174020Z
-SEQUENCE:3569380
+DTSTAMP:20261014T185020Z
+LAST-MODIFIED:20261014T185020Z
+SEQUENCE:3569450
 DTSTART:20261008T173000Z
 DTEND:20261008T193000Z
 SUMMARY:Committee on Environmental Protection and Energy
@@ -318,17 +318,17 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nSummary: https://occprodstoragev
  1.blob.core.usgovcloudapi.net/meetingattachmentspublic/e4f37e3a-c1ca-4316-
- a7f7-2f7499886e2e.pdf\nMonthly Rule 45: https://occprodstoragev1.blob.core
- .usgovcloudapi.net/meetingattachmentspublic/a0747842-3607-4351-aa0b-4a417f
- 3eafdf.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/m
- eetingattachmentspublic/b9c17e06-79bb-f111-aaae-001dd80aa3cc.pdf\nSummary:
-  https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspu
- blic/4264bd5c-66cb-4b9e-b169-be3784a126af.pdf\nAgenda: https://occprodstor
- agev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1dbadd3a-7f42-4
- cd1-ada9-0ea8af13d693.pdf\nVideo: https://vimeo.com/manage/videos/12341411
+ a7f7-2f7499886e2e.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclo
+ udapi.net/meetingattachmentspublic/b9c17e06-79bb-f111-aaae-001dd80aa3cc.pd
+ f\nSummary: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingat
+ tachmentspublic/4264bd5c-66cb-4b9e-b169-be3784a126af.pdf\nAgenda: https://
+ occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1dba
+ dd3a-7f42-4cd1-ada9-0ea8af13d693.pdf\nMonthly Rule 45: https://occprodstor
+ agev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/1a24be3c-f8c8-4
+ 009-92af-bd4ee4228a28.pdf\nVideo: https://vimeo.com/manage/videos/12341411
  96\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=AD
- 9CED9F-78BB-F111-AAAE-001DD80AA3CC\nLast published by Clerk: 2026-10-14 17
- :40 UTC
+ 9CED9F-78BB-F111-AAAE-001DD80AA3CC\nLast published by Clerk: 2026-10-14 18
+ :50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=AD9CED9F-78BB-F
  111-AAAE-001DD80AA3CC
 STATUS:CONFIRMED
@@ -549,9 +549,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:39fe6ee4-2fbc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261013T172520Z
-LAST-MODIFIED:20261013T172520Z
-SEQUENCE:3567925
+DTSTAMP:20261014T201021Z
+LAST-MODIFIED:20261014T201021Z
+SEQUENCE:3569530
 DTSTART:20261014T150000Z
 DTEND:20261014T190000Z
 SUMMARY:City Council
@@ -561,9 +561,9 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/5dc2983c-30bc-f111-a
  aae-001dd803894a.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
  dapi.net/meetingattachmentspublic/7ad74e3d-811e-4504-93a7-a7d70d4cff3b.pdf
- \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE
- 6EE4-2FBC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-13 17:2
- 5 UTC
+ \nVideo: https://vimeo.com/showcase/citycouncil?video=1235564993\nClerk pa
+ ge: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE6EE4-2FBC-
+ F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-14 20:10 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=39FE6EE4-2FBC-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

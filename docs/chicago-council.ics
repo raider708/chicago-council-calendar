@@ -420,9 +420,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:63dd2bfa-6dbe-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261013T210519Z
-LAST-MODIFIED:20261013T210519Z
-SEQUENCE:3568145
+DTSTAMP:20261015T200520Z
+LAST-MODIFIED:20261015T200520Z
+SEQUENCE:3570965
 DTSTART:20261013T180000Z
 DTEND:20261013T200000Z
 SUMMARY:Committee on Finance
@@ -434,9 +434,10 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
  29a.pdf\nSummary: https://occprodstoragev1.blob.core.usgovcloudapi.net/mee
  tingattachmentspublic/498ebf7f-3397-4387-af89-2d8070952c8f.pdf\nNotice: ht
  tps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubli
- c/8083491a-6ebe-f111-aaae-001dd80fda55.pdf\nClerk page: https://chicitycle
- rkelms.chicago.gov/Meeting/?meetingId=63DD2BFA-6DBE-F111-AAAE-001DD80B58E5
- \nLast published by Clerk: 2026-10-13 21:05 UTC
+ c/8083491a-6ebe-f111-aaae-001dd80fda55.pdf\nVideo: https://vimeo.com/manag
+ e/videos/1235504794\nClerk page: https://chicityclerkelms.chicago.gov/Meet
+ ing/?meetingId=63DD2BFA-6DBE-F111-AAAE-001DD80B58E5\nLast published by Cle
+ rk: 2026-10-15 20:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=63DD2BFA-6DBE-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -496,9 +497,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f97d1d10-eabc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261015T173020Z
-LAST-MODIFIED:20261015T173020Z
-SEQUENCE:3570810
+DTSTAMP:20261015T183021Z
+LAST-MODIFIED:20261015T183021Z
+SEQUENCE:3570870
 DTSTART:20261015T153000Z
 DTEND:20261015T173000Z
 SUMMARY:Committee on Immigrant and Refugee Rights
@@ -508,9 +509,9 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/d36b25a2-edbc-f111-a
  aae-001dd80aa3cc.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
  dapi.net/meetingattachmentspublic/c283ae24-bfc1-f111-aaae-001dd80efcf5.pdf
- \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D
- 1D10-EABC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-15 17:3
- 0 UTC
+ \nVideo: https://vimeo.com/showcase/8928487?video=1235973744\nClerk page: 
+ https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F111
+ -AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-15 18:30 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

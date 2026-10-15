@@ -591,4 +591,44 @@ URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:898baf5a-97c8-f111-aaae-001dd803847b@chicityclerkelms.chicago.gov
+DTSTAMP:20261015T130004Z
+LAST-MODIFIED:20261015T130004Z
+SEQUENCE:3570540
+DTSTART:20261208T160000Z
+DTEND:20261208T200000Z
+SUMMARY:City Council
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/3941d1cb-97c8-f111-a
+ aae-001dd803894a.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
+ ting/?meetingId=898BAF5A-97C8-F111-AAAE-001DD803847B\nLast published by Cl
+ erk: 2026-10-15 13:00 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=898BAF5A-97C8-F
+ 111-AAAE-001DD803847B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:93d04c47-98c8-f111-aaae-001dd803847b@chicityclerkelms.chicago.gov
+DTSTAMP:20261015T130502Z
+LAST-MODIFIED:20261015T130502Z
+SEQUENCE:3570545
+DTSTART:20261209T160000Z
+DTEND:20261209T200000Z
+SUMMARY:City Council
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/1a871c8e-98c8-f111-a
+ aae-001dd80fdad3.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
+ ting/?meetingId=93D04C47-98C8-F111-AAAE-001DD803847B\nLast published by Cl
+ erk: 2026-10-15 13:05 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=93D04C47-98C8-F
+ 111-AAAE-001DD803847B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR

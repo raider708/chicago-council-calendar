@@ -549,21 +549,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae8b3e3-86c9-f111-aaae-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T211124Z
-LAST-MODIFIED:20261016T211124Z
-SEQUENCE:3572471
+DTSTAMP:20261016T220857Z
+LAST-MODIFIED:20261016T220857Z
+SEQUENCE:3572528
 DTSTART:20261021T150000Z
 DTEND:20261021T190000Z
 SUMMARY:City Council
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/ed5fd22b-1b38-48ea-a
- 2da-5ad4ccc27387.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/7da79ce3-52e7-4b0f-a2d3-359202ee110f.pdf
+DESCRIPTION:Status: Scheduled & Published\nAgenda: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/ca2f38df-9d98-4458-8
+ 7c0-69c0b3d6228d.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclou
+ dapi.net/meetingattachmentspublic/ed5fd22b-1b38-48ea-a2da-5ad4ccc27387.pdf
  \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6AE8
- B3E3-86C9-F111-AAAE-001DD80FDA55\nLast published by Clerk: 2026-10-16 21:1
- 1 UTC
+ B3E3-86C9-F111-AAAE-001DD80FDA55\nLast published by Clerk: 2026-10-16 22:0
+ 8 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6AE8B3E3-86C9-F
  111-AAAE-001DD80FDA55
 STATUS:CONFIRMED

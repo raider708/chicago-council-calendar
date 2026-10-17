@@ -829,6 +829,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:051db20e-bcc9-f111-aaae-001dd803894a@chicityclerkelms.chicago.gov
+DTSTAMP:20261017T004016Z
+LAST-MODIFIED:20261017T004016Z
+SEQUENCE:3572680
+DTSTART:20261112T190000Z
+DTEND:20261112T210000Z
+SUMMARY:Committee on Police and Fire
+LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
+ , IL 60602
+DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/36472f67-c2c9-f111-a
+ aae-001dd803894a.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
+ ting/?meetingId=051DB20E-BCC9-F111-AAAE-001DD803894A\nLast published by Cl
+ erk: 2026-10-17 00:40 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=051DB20E-BCC9-F
+ 111-AAAE-001DD803894A
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:7f0b31cb-9cc9-f111-aaae-001dd80fda55@chicityclerkelms.chicago.gov
 DTSTAMP:20261016T204720Z
 LAST-MODIFIED:20261016T204720Z

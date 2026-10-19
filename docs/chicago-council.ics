@@ -428,21 +428,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f97d1d10-eabc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261015T183021Z
-LAST-MODIFIED:20261015T183021Z
-SEQUENCE:3570870
+DTSTAMP:20261019T213019Z
+LAST-MODIFIED:20261019T213019Z
+SEQUENCE:3576810
 DTSTART:20261015T153000Z
 DTEND:20261015T173000Z
 SUMMARY:Committee on Immigrant and Refugee Rights
 LOCATION:Room 201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chi
  cago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/d36b25a2-edbc-f111-a
- aae-001dd80aa3cc.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/c283ae24-bfc1-f111-aaae-001dd80efcf5.pdf
- \nVideo: https://vimeo.com/showcase/8928487?video=1235973744\nClerk page: 
- https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F111
- -AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-15 18:30 UTC
+DESCRIPTION:Status: Scheduled & Published\nSummary: https://occprodstoragev
+ 1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f9aa62dc-3924-4472-
+ 96b2-9e729943c56a.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclo
+ udapi.net/meetingattachmentspublic/d36b25a2-edbc-f111-aaae-001dd80aa3cc.pd
+ f\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingatt
+ achmentspublic/c283ae24-bfc1-f111-aaae-001dd80efcf5.pdf\nOther: https://oc
+ cprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/eb8666
+ 21-ff59-4a07-9230-c8166ebac6ce.pdf\nMonthly Rule 45: https://occprodstorag
+ ev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a01a7456-58d5-4b8
+ 7-83fd-06aadb16df41.pdf\nVideo: https://vimeo.com/showcase/8928487?video=1
+ 235973744\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeti
+ ngId=F97D1D10-EABC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-1
+ 0-19 21:30 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -498,25 +504,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4e4f726a-90c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T184020Z
-LAST-MODIFIED:20261016T184020Z
-SEQUENCE:3572320
+DTSTAMP:20261019T200520Z
+LAST-MODIFIED:20261019T200520Z
+SEQUENCE:3576725
 DTSTART:20261026T150000Z
 DTEND:20261026T170000Z
 SUMMARY:Committee on Budget and Government Operations
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nBudget and Finance\n-Office of B
- udget and Management \n-Department of Finance\n-Office of the Chief Financ
- ial Officer\n\n*Public comments will be available at the beginning of each
-  scheduled hearing date prior to Hearings' start. There will be no other p
- ublic participation once hearings are in session.\nAgenda: https://occprod
- storagev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a7685bcf-4d
- 58-4c89-b98b-46930c23a57f.pdf\nNotice: https://occprodstoragev1.blob.core.
- usgovcloudapi.net/meetingattachmentspublic/8755da26-3195-4c35-8a0b-84e2f84
- a228f.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeti
- ngId=4E4F726A-90C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-1
- 0-16 18:40 UTC
+DESCRIPTION:Status: Scheduled & Published\nBudget and Finance\n- Office of 
+ Budget & Management \n- Department of Finance\n- Office of the Chief Finan
+ cial Officer\n\n*Public comments will be available at the beginning of eac
+ h scheduled hearing date prior to Hearings' start. There will be no other 
+ public participation once hearings are in session.\nAgenda: https://occpro
+ dstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a7685bcf-4
+ d58-4c89-b98b-46930c23a57f.pdf\nAgenda: https://occprodstoragev1.blob.core
+ .usgovcloudapi.net/meetingattachmentspublic/c6ebaa40-43ce-412a-9d8e-b2a0a5
+ 8b5d87.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/m
+ eetingattachmentspublic/8755da26-3195-4c35-8a0b-84e2f84a228f.pdf\nClerk pa
+ ge: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=4E4F726A-90C9-
+ F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-19 20:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=4E4F726A-90C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -524,25 +531,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:851ca01e-91c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T184516Z
-LAST-MODIFIED:20261016T184516Z
-SEQUENCE:3572325
+DTSTAMP:20261019T200524Z
+LAST-MODIFIED:20261019T200524Z
+SEQUENCE:3576725
 DTSTART:20261027T143000Z
 DTEND:20261027T163000Z
 SUMMARY:Committee on Budget and Government Operations
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nInfrastructure Day 1\nDepartment
-  of Buildings\nDepartment of Aviation \nDepartment of Fleet and Facility M
- anagement\nDepartment of the Environment \n\n*Public comments will be avai
- lable at the beginning of each scheduled hearing date prior to Hearings' s
- tart. There will be no other public participation once hearings are in ses
- sion.\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetin
- gattachmentspublic/0e7ec177-a445-4555-8fe1-eca6a7094e39.pdf\nNotice: https
- ://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/7
- 40d2801-9de7-4c2b-b5d3-05084a6c6b65.pdf\nClerk page: https://chicityclerke
- lms.chicago.gov/Meeting/?meetingId=851CA01E-91C9-F111-AAAE-001DD80B58E5\nL
- ast published by Clerk: 2026-10-16 18:45 UTC
+DESCRIPTION:Status: Scheduled & Published\nInfrastructure Day 1\n- Departme
+ nt of Buildings\n- Department of Aviation \n- Department of Fleet and Faci
+ lity Management\n- Department of the Environment \n\n*Public comments will
+  be available at the beginning of each scheduled hearing date prior to Hea
+ rings' start. There will be no other public participation once hearings ar
+ e in session.\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.ne
+ t/meetingattachmentspublic/a56530b4-2ac9-4cce-be1d-ad275557922e.pdf\nAgend
+ a: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachments
+ public/0e7ec177-a445-4555-8fe1-eca6a7094e39.pdf\nNotice: https://occprodst
+ oragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/740d2801-9de7
+ -4c2b-b5d3-05084a6c6b65.pdf\nClerk page: https://chicityclerkelms.chicago.
+ gov/Meeting/?meetingId=851CA01E-91C9-F111-AAAE-001DD80B58E5\nLast publishe
+ d by Clerk: 2026-10-19 20:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=851CA01E-91C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -550,9 +559,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2d73b4d3-91c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T185017Z
-LAST-MODIFIED:20261016T185017Z
-SEQUENCE:3572330
+DTSTAMP:20261019T195606Z
+LAST-MODIFIED:20261019T195606Z
+SEQUENCE:3576716
 DTSTART:20261028T143000Z
 DTEND:20261028T163000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -562,12 +571,14 @@ DESCRIPTION:Status: Scheduled & Published\nPublic Safety Day 1\n- Chicago P
  olice Department\n- Chicago Department of Public Health\n\n*Public comment
  s will be available at the beginning of each scheduled hearing date prior 
  to Hearings' start. There will be no other public participation once heari
- ngs are in session.\nNotice: https://occprodstoragev1.blob.core.usgovcloud
- api.net/meetingattachmentspublic/f3cd8e13-995d-4d33-b572-780d0b87a196.pdf\
- nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattac
- hmentspublic/5bd7df65-8485-4772-a4cc-ba5dbc5b5555.pdf\nClerk page: https:/
- /chicityclerkelms.chicago.gov/Meeting/?meetingId=2D73B4D3-91C9-F111-AAAE-0
- 01DD80B58E5\nLast published by Clerk: 2026-10-16 18:50 UTC
+ ngs are in session.\nAgenda: https://occprodstoragev1.blob.core.usgovcloud
+ api.net/meetingattachmentspublic/7c081e42-66fe-4ca5-af0c-2b14f3dcef4f.pdf\
+ nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattac
+ hmentspublic/f3cd8e13-995d-4d33-b572-780d0b87a196.pdf\nAgenda: https://occ
+ prodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5bd7df6
+ 5-8485-4772-a4cc-ba5dbc5b5555.pdf\nClerk page: https://chicityclerkelms.ch
+ icago.gov/Meeting/?meetingId=2D73B4D3-91C9-F111-AAAE-001DD80B58E5\nLast pu
+ blished by Clerk: 2026-10-19 19:56 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=2D73B4D3-91C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -575,9 +586,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:31eff839-92c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T185519Z
-LAST-MODIFIED:20261016T185519Z
-SEQUENCE:3572335
+DTSTAMP:20261019T195610Z
+LAST-MODIFIED:20261019T195610Z
+SEQUENCE:3576716
 DTSTART:20261029T143000Z
 DTEND:20261029T163000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -591,9 +602,11 @@ DESCRIPTION:Status: Scheduled & Published\nInfrastructure Day 2\n- Departme
  e hearings are in session.\nNotice: https://occprodstoragev1.blob.core.usg
  ovcloudapi.net/meetingattachmentspublic/8ce298eb-b104-4b8c-8469-304debbb00
  73.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meeti
- ngattachmentspublic/d1f0f7b0-a8d8-426f-9cfa-fa11a1f39324.pdf\nClerk page: 
- https://chicityclerkelms.chicago.gov/Meeting/?meetingId=31EFF839-92C9-F111
- -AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-16 18:55 UTC
+ ngattachmentspublic/e5732fb9-f11f-4d90-9b3e-e80ad1397aac.pdf\nAgenda: http
+ s://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/
+ d1f0f7b0-a8d8-426f-9cfa-fa11a1f39324.pdf\nClerk page: https://chicityclerk
+ elms.chicago.gov/Meeting/?meetingId=31EFF839-92C9-F111-AAAE-001DD80B58E5\n
+ Last published by Clerk: 2026-10-19 19:56 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=31EFF839-92C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -601,9 +614,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8a97d1ca-92c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T185522Z
-LAST-MODIFIED:20261016T185522Z
-SEQUENCE:3572335
+DTSTAMP:20261019T195615Z
+LAST-MODIFIED:20261019T195615Z
+SEQUENCE:3576716
 DTSTART:20261104T153000Z
 DTEND:20261104T173000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -616,11 +629,13 @@ DESCRIPTION:Status: Scheduled & Published\nEconomic Development & The Arts\
  he beginning of each scheduled hearing date prior to Hearings' start. Ther
  e will be no other public participation once hearings are in session.\nAge
  nda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmen
- tspublic/4959837d-c730-4464-9718-5c75f21e0b31.pdf\nNotice: https://occprod
- storagev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4c975a51-ed
- 53-47f7-b062-7edadaf7a2b4.pdf\nClerk page: https://chicityclerkelms.chicag
- o.gov/Meeting/?meetingId=8A97D1CA-92C9-F111-AAAE-001DD80B58E5\nLast publis
- hed by Clerk: 2026-10-16 18:55 UTC
+ tspublic/077463a6-1b09-4ba7-9ab7-3dfd2f0c7cef.pdf\nAgenda: https://occprod
+ storagev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4959837d-c7
+ 30-4464-9718-5c75f21e0b31.pdf\nNotice: https://occprodstoragev1.blob.core.
+ usgovcloudapi.net/meetingattachmentspublic/4c975a51-ed53-47f7-b062-7edadaf
+ 7a2b4.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeti
+ ngId=8A97D1CA-92C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-1
+ 0-19 19:56 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=8A97D1CA-92C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -628,9 +643,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:93474b73-93c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T190021Z
-LAST-MODIFIED:20261016T190021Z
-SEQUENCE:3572340
+DTSTAMP:20261019T195619Z
+LAST-MODIFIED:20261019T195619Z
+SEQUENCE:3576716
 DTSTART:20261105T153000Z
 DTEND:20261105T173000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -638,15 +653,18 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nPublic Safety Day 2\n- Chicago F
  ire Department\n- Office of Emergency Management and Communication \n- Chi
- cago Animal Care and Control\n- Office of Public Safety Administration\n\n
- *Public comments will be available at the beginning of each scheduled hear
- ing date prior to Hearings' start. There will be no other public participa
- tion once hearings are in session.\nNotice: https://occprodstoragev1.blob.
- core.usgovcloudapi.net/meetingattachmentspublic/2bcc0f31-1e9b-4ee9-989b-b5
- 434270f9a4.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.n
- et/meetingattachmentspublic/a7ee866d-f413-493a-8b8d-f51b6b8efe68.pdf\nCler
- k page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=93474B73-9
- 3C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-16 19:00 UTC
+ cago Animal Care and Control\n- Office of Public Safety Administration\n- 
+ Civilian Office of Police Accountability\n\n*Public comments will be avail
+ able at the beginning of each scheduled hearing date prior to Hearings' st
+ art. There will be no other public participation once hearings are in sess
+ ion.\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meeting
+ attachmentspublic/2bcc0f31-1e9b-4ee9-989b-b5434270f9a4.pdf\nAgenda: https:
+ //occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c3
+ b7092e-1eb7-4259-b45f-97c49adebde1.pdf\nAgenda: https://occprodstoragev1.b
+ lob.core.usgovcloudapi.net/meetingattachmentspublic/a7ee866d-f413-493a-8b8
+ d-f51b6b8efe68.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeti
+ ng/?meetingId=93474B73-93C9-F111-AAAE-001DD80B58E5\nLast published by Cler
+ k: 2026-10-19 19:56 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=93474B73-93C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -654,9 +672,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:62aebfec-93c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T190519Z
-LAST-MODIFIED:20261016T190519Z
-SEQUENCE:3572345
+DTSTAMP:20261019T195624Z
+LAST-MODIFIED:20261019T195624Z
+SEQUENCE:3576716
 DTSTART:20261106T153000Z
 DTEND:20261106T173000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -671,9 +689,11 @@ DESCRIPTION:Status: Scheduled & Published\nSocial Services\, Clerk & Librar
  session.\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/mee
  tingattachmentspublic/fb1eb6b6-11c5-4f91-9f25-56384474ab81.pdf\nNotice: ht
  tps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubli
- c/04c13a3c-8e7f-4b5c-8f65-4fa1eeb49b79.pdf\nClerk page: https://chicitycle
- rkelms.chicago.gov/Meeting/?meetingId=62AEBFEC-93C9-F111-AAAE-001DD80B58E5
- \nLast published by Clerk: 2026-10-16 19:05 UTC
+ c/04c13a3c-8e7f-4b5c-8f65-4fa1eeb49b79.pdf\nAgenda: https://occprodstorage
+ v1.blob.core.usgovcloudapi.net/meetingattachmentspublic/9785483c-2f56-4b82
+ -8a5f-f478d04aaa87.pdf\nClerk page: https://chicityclerkelms.chicago.gov/M
+ eeting/?meetingId=62AEBFEC-93C9-F111-AAAE-001DD80B58E5\nLast published by 
+ Clerk: 2026-10-19 19:56 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=62AEBFEC-93C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -681,27 +701,28 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1d6dff77-94c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T191017Z
-LAST-MODIFIED:20261016T191017Z
-SEQUENCE:3572350
+DTSTAMP:20261019T195628Z
+LAST-MODIFIED:20261019T195628Z
+SEQUENCE:3576716
 DTSTART:20261109T153000Z
 DTEND:20261109T173000Z
 SUMMARY:Committee on Budget and Government Operations
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nProcurement\, HR\, Oversight and
-  Elections\n- Office of the City Treasurer\n- Department of Human Resource
- s\n- Department of Administrative Hearings\n- Civilian Office for Police A
- ccountability\n- Department of Procurement Services\n- Board of Elections\
- n\n*Public comments will be available at the beginning of each scheduled h
- earing date prior to Hearings' start. There will be no other public partic
- ipation once hearings are in session.\nNotice: https://occprodstoragev1.bl
- ob.core.usgovcloudapi.net/meetingattachmentspublic/866350fb-f2ca-40b4-9e80
- -97029c6f66c7.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudap
- i.net/meetingattachmentspublic/ad7a9ed7-905b-4347-8fec-90fd549bdbd3.pdf\nC
- lerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=1D6DFF7
- 7-94C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-16 19:10 U
- TC
+DESCRIPTION:Status: Scheduled & Published\nProcurement\, HR\, and Elections
+ \n- Office of the City Treasurer\n- Department of Human Resources\n- Depar
+ tment of Administrative Hearings\n- Department of Procurement Services\n- 
+ Board of Elections\n\n*Public comments will be available at the beginning 
+ of each scheduled hearing date prior to Hearings' start. There will be no 
+ other public participation once hearings are in session.\nNotice: https://
+ occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8663
+ 50fb-f2ca-40b4-9e80-97029c6f66c7.pdf\nAgenda: https://occprodstoragev1.blo
+ b.core.usgovcloudapi.net/meetingattachmentspublic/ad7a9ed7-905b-4347-8fec-
+ 90fd549bdbd3.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi
+ .net/meetingattachmentspublic/fd112d41-bf03-4b1a-acdf-0fd9abf6c638.pdf\nCl
+ erk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=1D6DFF77
+ -94C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-19 19:56 UT
+ C
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=1D6DFF77-94C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -709,9 +730,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:d7bbf3e9-94c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261016T191022Z
-LAST-MODIFIED:20261016T191022Z
-SEQUENCE:3572350
+DTSTAMP:20261019T200022Z
+LAST-MODIFIED:20261019T200022Z
+SEQUENCE:3576720
 DTSTART:20261110T153000Z
 DTEND:20261110T173000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -723,12 +744,14 @@ DESCRIPTION:Status: Scheduled & Published\nOversight\, Independent Bodies &
  Office of the Inspector General\n- Department of Law\n\n*Public comments w
  ill be available at the beginning of each scheduled hearing date prior to 
  Hearings' start. There will be no other public participation once hearings
-  are in session.\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi
- .net/meetingattachmentspublic/b1114bf9-b08c-41b0-bd15-949f5c57378f.pdf\nAg
- enda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachme
- ntspublic/b9a82d43-2686-45a9-8566-df723d98a221.pdf\nClerk page: https://ch
- icityclerkelms.chicago.gov/Meeting/?meetingId=D7BBF3E9-94C9-F111-AAAE-001D
- D80B58E5\nLast published by Clerk: 2026-10-16 19:10 UTC
+  are in session.\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi
+ .net/meetingattachmentspublic/c427ef01-6eb2-4e9e-9ad9-1a84e4472c5a.pdf\nNo
+ tice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachme
+ ntspublic/b1114bf9-b08c-41b0-bd15-949f5c57378f.pdf\nAgenda: https://occpro
+ dstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b9a82d43-2
+ 686-45a9-8566-df723d98a221.pdf\nClerk page: https://chicityclerkelms.chica
+ go.gov/Meeting/?meetingId=D7BBF3E9-94C9-F111-AAAE-001DD80B58E5\nLast publi
+ shed by Clerk: 2026-10-19 20:00 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=D7BBF3E9-94C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

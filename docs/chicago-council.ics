@@ -503,6 +503,28 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:54f057fc-81cc-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
+DTSTAMP:20261020T123523Z
+LAST-MODIFIED:20261020T123523Z
+SEQUENCE:3577715
+DTSTART:20261023T160000Z
+DTEND:20261023T180000Z
+SUMMARY:Committee on Budget and Government Operations
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
+  October 22\, 2026\, 9:00 AM\nAgenda: https://occprodstoragev1.blob.core.u
+ sgovcloudapi.net/meetingattachmentspublic/c740d6fe-9c12-44d2-b2fd-d9839521
+ 5984.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/mee
+ tingattachmentspublic/421ad5a0-3925-4745-9934-f5c8d76fdfd2.pdf\nClerk page
+ : https://chicityclerkelms.chicago.gov/Meeting/?meetingId=54F057FC-81CC-F1
+ 11-A05C-001DD80B58E5\nLast published by Clerk: 2026-10-20 12:35 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=54F057FC-81CC-F
+ 111-A05C-001DD80B58E5
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:4e4f726a-90c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
 DTSTAMP:20261019T200520Z
 LAST-MODIFIED:20261019T200520Z

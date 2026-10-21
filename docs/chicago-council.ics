@@ -808,20 +808,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:247de37c-cbcc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261020T215610Z
-LAST-MODIFIED:20261020T215610Z
-SEQUENCE:3578276
+DTSTAMP:20261020T224257Z
+LAST-MODIFIED:20261020T224257Z
+SEQUENCE:3578322
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nPublic Hearing on O2026-0028902 
- \nPublic Hearing on extension of Tax Levy for Special Service Area No. 22 
- for 2027\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/mee
- tingattachmentspublic/185820cd-feb6-44d0-acca-6279d46c1364.pdf\nClerk page
- : https://chicityclerkelms.chicago.gov/Meeting/?meetingId=247DE37C-CBCC-F1
- 11-A05B-001DD80FDA55\nLast published by Clerk: 2026-10-20 21:56 UTC
+DESCRIPTION:Status: Scheduled & Published\nO2026-0028902 \nPublic Hearing o
+ n extension of Tax Levy for Special Service Area No. 22 for 2027\nWritten 
+ Comments due Nov 11th at 12pm.\nWritten Comments due Nov 11 at 12pm\nNotic
+ e: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachments
+ public/185820cd-feb6-44d0-acca-6279d46c1364.pdf\nClerk page: https://chici
+ tyclerkelms.chicago.gov/Meeting/?meetingId=247DE37C-CBCC-F111-A05B-001DD80
+ FDA55\nLast published by Clerk: 2026-10-20 22:42 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=247DE37C-CBCC-F
  111-A05B-001DD80FDA55
 STATUS:CONFIRMED
@@ -829,9 +830,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dc76b469-cccc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261020T221430Z
-LAST-MODIFIED:20261020T221430Z
-SEQUENCE:3578294
+DTSTAMP:20261020T222709Z
+LAST-MODIFIED:20261020T222709Z
+SEQUENCE:3578307
 DTSTART:20261112T172000Z
 DTEND:20261112T192000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
@@ -843,8 +844,52 @@ DESCRIPTION:Status: Scheduled & Published\nO2026-0028906 Public hearing on
  cprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/40b3b1
  aa-c2a7-472f-bbbd-e86db79e76c6.pdf\nClerk page: https://chicityclerkelms.c
  hicago.gov/Meeting/?meetingId=DC76B469-CCCC-F111-A05B-001DD80FDA55\nLast p
- ublished by Clerk: 2026-10-20 22:14 UTC
+ ublished by Clerk: 2026-10-20 22:27 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=DC76B469-CCCC-F
+ 111-A05B-001DD80FDA55
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:534f9e60-d1cc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
+DTSTAMP:20261020T223508Z
+LAST-MODIFIED:20261020T223508Z
+SEQUENCE:3578315
+DTSTART:20261112T174000Z
+DTEND:20261112T194000Z
+SUMMARY:Committee on Economic\, Capital and Technology Development
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nO2026-0028932 Public hearing on 
+ extension of tax levy and expansion of Special Service Area (SSA) No. 73 f
+ or Year 2027. Written Comments are due on Nov 11 at 12pm\nNotice: https://
+ occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/71ae
+ 211f-26d9-4bc9-8cc2-dc6d48ee7083.pdf\nClerk page: https://chicityclerkelms
+ .chicago.gov/Meeting/?meetingId=534F9E60-D1CC-F111-A05B-001DD80FDA55\nLast
+  published by Clerk: 2026-10-20 22:35 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=534F9E60-D1CC-F
+ 111-A05B-001DD80FDA55
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf5dc84-d2cc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
+DTSTAMP:20261020T225553Z
+LAST-MODIFIED:20261020T225553Z
+SEQUENCE:3578335
+DTSTART:20261112T180000Z
+DTEND:20261112T200000Z
+SUMMARY:Committee on Economic\, Capital and Technology Development
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nR2026-0028755 public hearing on 
+ establishment of Business Improvement District (BID) No. 1  Written Commen
+ ts due Nov 11 at 12pm\nNotice: https://occprodstoragev1.blob.core.usgovclo
+ udapi.net/meetingattachmentspublic/aeec4c1e-f3e5-4ebe-9793-797af0706c61.pd
+ f\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=BBF
+ 5DC84-D2CC-F111-A05B-001DD80FDA55\nLast published by Clerk: 2026-10-20 22:
+ 55 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=BBF5DC84-D2CC-F
  111-A05B-001DD80FDA55
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

@@ -383,9 +383,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae8b3e3-86c9-f111-aaae-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261019T153502Z
-LAST-MODIFIED:20261019T153502Z
-SEQUENCE:3576455
+DTSTAMP:20261021T192012Z
+LAST-MODIFIED:20261021T192012Z
+SEQUENCE:3579560
 DTSTART:20261021T150000Z
 DTEND:20261021T190000Z
 SUMMARY:City Council
@@ -395,9 +395,9 @@ DESCRIPTION:Status: Scheduled & Published\nAgenda: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/a1daa327-de4f-45fa-9
  181-a973b9b820a0.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclou
  dapi.net/meetingattachmentspublic/ed5fd22b-1b38-48ea-a2da-5ad4ccc27387.pdf
- \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6AE8
- B3E3-86C9-F111-AAAE-001DD80FDA55\nLast published by Clerk: 2026-10-19 15:3
- 5 UTC
+ \nVideo: https://vimeo.com/showcase/citycouncil?video=1237727064\nClerk pa
+ ge: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6AE8B3E3-86C9-
+ F111-AAAE-001DD80FDA55\nLast published by Clerk: 2026-10-21 19:20 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=6AE8B3E3-86C9-F
  111-AAAE-001DD80FDA55
 STATUS:CONFIRMED

@@ -272,9 +272,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:54f057fc-81cc-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261020T145516Z
-LAST-MODIFIED:20261020T145516Z
-SEQUENCE:3577855
+DTSTAMP:20261023T211518Z
+LAST-MODIFIED:20261023T211518Z
+SEQUENCE:3582555
 DTSTART:20261023T160000Z
 DTEND:20261023T180000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -288,9 +288,10 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
  tps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubli
  c/cdc39ff5-0e7c-419d-828c-945cd0af56a5.pdf\nNotice: https://occprodstorage
  v1.blob.core.usgovcloudapi.net/meetingattachmentspublic/421ad5a0-3925-4745
- -9934-f5c8d76fdfd2.pdf\nClerk page: https://chicityclerkelms.chicago.gov/M
- eeting/?meetingId=54F057FC-81CC-F111-A05C-001DD80B58E5\nLast published by 
- Clerk: 2026-10-20 14:55 UTC
+ -9934-f5c8d76fdfd2.pdf\nVideo: https://vimeo.com/showcase/8925576?video=12
+ 38089923\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetin
+ gId=54F057FC-81CC-F111-A05C-001DD80B58E5\nLast published by Clerk: 2026-10
+ -23 21:15 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=54F057FC-81CC-F
  111-A05C-001DD80B58E5
 STATUS:CONFIRMED
@@ -574,9 +575,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:247de37c-cbcc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261020T224257Z
-LAST-MODIFIED:20261020T224257Z
-SEQUENCE:3578322
+DTSTAMP:20261023T195257Z
+LAST-MODIFIED:20261023T195257Z
+SEQUENCE:3582472
 DTSTART:20261112T170000Z
 DTEND:20261112T190000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
@@ -584,11 +585,11 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nO2026-0028902 \nPublic Hearing o
  n extension of Tax Levy for Special Service Area No. 22 for 2027\nWritten 
- Comments due Nov 11th at 12pm.\nWritten Comments due Nov 11 at 12pm\nNotic
- e: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachments
- public/185820cd-feb6-44d0-acca-6279d46c1364.pdf\nClerk page: https://chici
- tyclerkelms.chicago.gov/Meeting/?meetingId=247DE37C-CBCC-F111-A05B-001DD80
- FDA55\nLast published by Clerk: 2026-10-20 22:42 UTC
+ Comment Deadline: November 11\, 2026\, 12 PM\nNotice: https://occprodstora
+ gev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/185820cd-feb6-44
+ d0-acca-6279d46c1364.pdf\nClerk page: https://chicityclerkelms.chicago.gov
+ /Meeting/?meetingId=247DE37C-CBCC-F111-A05B-001DD80FDA55\nLast published b
+ y Clerk: 2026-10-23 19:52 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=247DE37C-CBCC-F
  111-A05B-001DD80FDA55
 STATUS:CONFIRMED
@@ -596,9 +597,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:dc76b469-cccc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261020T222709Z
-LAST-MODIFIED:20261020T222709Z
-SEQUENCE:3578307
+DTSTAMP:20261023T193045Z
+LAST-MODIFIED:20261023T193045Z
+SEQUENCE:3582450
 DTSTART:20261112T172000Z
 DTEND:20261112T192000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
@@ -606,11 +607,11 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nO2026-0028906 Public hearing on 
  extension of tax levy and expansion of Special Service Area (SSA) No. 26 f
- or Year 2027 Written Comment due November 11th at 12pm\nNotice: https://oc
- cprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/40b3b1
- aa-c2a7-472f-bbbd-e86db79e76c6.pdf\nClerk page: https://chicityclerkelms.c
- hicago.gov/Meeting/?meetingId=DC76B469-CCCC-F111-A05B-001DD80FDA55\nLast p
- ublished by Clerk: 2026-10-20 22:27 UTC
+ or Year 2027 \nPublic Written Comment Deadline: November 11\, 2026 12 PM\n
+ Notice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattach
+ mentspublic/40b3b1aa-c2a7-472f-bbbd-e86db79e76c6.pdf\nClerk page: https://
+ chicityclerkelms.chicago.gov/Meeting/?meetingId=DC76B469-CCCC-F111-A05B-00
+ 1DD80FDA55\nLast published by Clerk: 2026-10-23 19:30 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=DC76B469-CCCC-F
  111-A05B-001DD80FDA55
 STATUS:CONFIRMED
@@ -618,9 +619,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:534f9e60-d1cc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261020T223508Z
-LAST-MODIFIED:20261020T223508Z
-SEQUENCE:3578315
+DTSTAMP:20261023T200146Z
+LAST-MODIFIED:20261023T200146Z
+SEQUENCE:3582481
 DTSTART:20261112T174000Z
 DTEND:20261112T194000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
@@ -628,11 +629,11 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nO2026-0028932 Public hearing on 
  extension of tax levy and expansion of Special Service Area (SSA) No. 73 f
- or Year 2027. Written Comments are due on Nov 11 at 12pm\nNotice: https://
- occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/71ae
- 211f-26d9-4bc9-8cc2-dc6d48ee7083.pdf\nClerk page: https://chicityclerkelms
- .chicago.gov/Meeting/?meetingId=534F9E60-D1CC-F111-A05B-001DD80FDA55\nLast
-  published by Clerk: 2026-10-20 22:35 UTC
+ or Year 2027. Public Written Comment Deadline:  November 11\, 2026\,  12 P
+ M\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingatt
+ achmentspublic/71ae211f-26d9-4bc9-8cc2-dc6d48ee7083.pdf\nClerk page: https
+ ://chicityclerkelms.chicago.gov/Meeting/?meetingId=534F9E60-D1CC-F111-A05B
+ -001DD80FDA55\nLast published by Clerk: 2026-10-23 20:01 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=534F9E60-D1CC-F
  111-A05B-001DD80FDA55
 STATUS:CONFIRMED
@@ -640,21 +641,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bbf5dc84-d2cc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261020T225553Z
-LAST-MODIFIED:20261020T225553Z
-SEQUENCE:3578335
+DTSTAMP:20261023T195303Z
+LAST-MODIFIED:20261023T195303Z
+SEQUENCE:3582473
 DTSTART:20261112T180000Z
 DTEND:20261112T200000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nR2026-0028755 public hearing on 
- establishment of Business Improvement District (BID) No. 1  Written Commen
- ts due Nov 11 at 12pm\nNotice: https://occprodstoragev1.blob.core.usgovclo
- udapi.net/meetingattachmentspublic/aeec4c1e-f3e5-4ebe-9793-797af0706c61.pd
- f\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=BBF
- 5DC84-D2CC-F111-A05B-001DD80FDA55\nLast published by Clerk: 2026-10-20 22:
- 55 UTC
+ establishment of Business Improvement District (BID) No. 1 - Magnificent M
+ ile \nPublic Written Comment Deadline:  October 11\, 2026\, 12 PM\nNotice:
+  https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspu
+ blic/aeec4c1e-f3e5-4ebe-9793-797af0706c61.pdf\nClerk page: https://chicity
+ clerkelms.chicago.gov/Meeting/?meetingId=BBF5DC84-D2CC-F111-A05B-001DD80FD
+ A55\nLast published by Clerk: 2026-10-23 19:53 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=BBF5DC84-D2CC-F
  111-A05B-001DD80FDA55
 STATUS:CONFIRMED
@@ -705,20 +706,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:64c3d3d4-0ccf-f111-a05c-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20261023T181522Z
-LAST-MODIFIED:20261023T181522Z
-SEQUENCE:3582375
+DTSTAMP:20261023T195016Z
+LAST-MODIFIED:20261023T195016Z
+SEQUENCE:3582470
 DTSTART:20261116T163000Z
 DTEND:20261116T183000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
 LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
  , IL 60602
-DESCRIPTION:Status: Scheduled & Published\nPublic Comments due Friday\, Nov
- ember 13 at 12:00 PM\nNotice: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/2720d974-d155-41d1-9be9-87c2c0939f35.pdf
- \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=64C3
- D3D4-0CCF-F111-A05C-001DD80AA3CC\nLast published by Clerk: 2026-10-23 18:1
- 5 UTC
+DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
+    November 13\, 2026\, 12:00 PM\nNotice: https://occprodstoragev1.blob.co
+ re.usgovcloudapi.net/meetingattachmentspublic/2720d974-d155-41d1-9be9-87c2
+ c0939f35.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?me
+ etingId=64C3D3D4-0CCF-F111-A05C-001DD80AA3CC\nLast published by Clerk: 202
+ 6-10-23 19:50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=64C3D3D4-0CCF-F
  111-A05C-001DD80AA3CC
 STATUS:CONFIRMED

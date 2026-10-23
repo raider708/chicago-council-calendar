@@ -8,32 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:c0886d80-0ab9-f111-aaac-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261013T134052Z
-LAST-MODIFIED:20261013T134052Z
-SEQUENCE:3567700
-DTSTART:20261009T153000Z
-DTEND:20261009T173000Z
-SUMMARY:Committee on Pedestrian and Traffic Safety
-LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
- , IL 60602
-DESCRIPTION:Status: Scheduled & Published\nDirect Introduction Deadline is 
- 5:00pm Tuesday September 29th\nNotice: https://occprodstoragev1.blob.core.
- usgovcloudapi.net/meetingattachmentspublic/83fffb6a-0bb9-f111-aaac-001dd80
- 3894a.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/me
- etingattachmentspublic/57db25a7-6e4d-40ac-9843-e8ad10c8a4bb.pdf\nAgenda: h
- ttps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubl
- ic/66d40ed1-cefd-47e3-9586-e76aebf87983.pdf\nSummary: https://occprodstora
- gev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/689cb18c-442b-4d
- bb-a22b-6eafbd046254.pdf\nVideo: https://vimeo.com/1234177208\nClerk page:
-  https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F11
- 1-AAAC-001DD80FDA55\nLast published by Clerk: 2026-10-13 13:40 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C0886D80-0AB9-F
- 111-AAAC-001DD80FDA55
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:3fc06450-8ab7-f111-aaac-001dd80aa3cc@chicityclerkelms.chicago.gov
 DTSTAMP:20261013T195020Z
 LAST-MODIFIED:20261013T195020Z
@@ -726,6 +700,27 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
  6-10-16 20:47 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=7F0B31CB-9CC9-F
  111-AAAE-001DD80FDA55
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:64c3d3d4-0ccf-f111-a05c-001dd80aa3cc@chicityclerkelms.chicago.gov
+DTSTAMP:20261023T181522Z
+LAST-MODIFIED:20261023T181522Z
+SEQUENCE:3582375
+DTSTART:20261116T163000Z
+DTEND:20261116T183000Z
+SUMMARY:Committee on Economic\, Capital and Technology Development
+LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
+ , IL 60602
+DESCRIPTION:Status: Scheduled & Published\nPublic Comments due Friday\, Nov
+ ember 13 at 12:00 PM\nNotice: https://occprodstoragev1.blob.core.usgovclou
+ dapi.net/meetingattachmentspublic/2720d974-d155-41d1-9be9-87c2c0939f35.pdf
+ \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=64C3
+ D3D4-0CCF-F111-A05C-001DD80AA3CC\nLast published by Clerk: 2026-10-23 18:1
+ 5 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=64C3D3D4-0CCF-F
+ 111-A05C-001DD80AA3CC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

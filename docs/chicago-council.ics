@@ -249,9 +249,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:481e7a8f-2bd2-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261027T184521Z
-LAST-MODIFIED:20261027T184521Z
-SEQUENCE:3588165
+DTSTAMP:20261027T192520Z
+LAST-MODIFIED:20261027T192520Z
+SEQUENCE:3588205
 DTSTART:20261102T160000Z
 DTEND:20261102T200000Z
 SUMMARY:City Council
@@ -260,10 +260,10 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
 DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting to consider allo
  cation of Concession Payments among city pension funds pursuant to Section
   2.3 of SO2026-0025407\nNotice: https://occprodstoragev1.blob.core.usgovcl
- oudapi.net/meetingattachmentspublic/e75bb01a-9c41-462b-8c9c-fbd8db503eba.p
+ oudapi.net/meetingattachmentspublic/d1e1bc51-650d-40d4-8f83-9479de0d74cf.p
  df\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=48
- 1E7A8F-2BD2-F111-A05C-001DD80B58E5\nLast published by Clerk: 2026-10-27 18
- :45 UTC
+ 1E7A8F-2BD2-F111-A05C-001DD80B58E5\nLast published by Clerk: 2026-10-27 19
+ :25 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=481E7A8F-2BD2-F
  111-A05C-001DD80B58E5
 STATUS:CONFIRMED

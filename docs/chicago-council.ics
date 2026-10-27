@@ -299,9 +299,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4e4f726a-90c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261019T200520Z
-LAST-MODIFIED:20261019T200520Z
-SEQUENCE:3576725
+DTSTAMP:20261026T233520Z
+LAST-MODIFIED:20261026T233520Z
+SEQUENCE:3587015
 DTSTART:20261026T150000Z
 DTEND:20261026T170000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -316,9 +316,10 @@ DESCRIPTION:Status: Scheduled & Published\nBudget and Finance\n- Office of
  d58-4c89-b98b-46930c23a57f.pdf\nAgenda: https://occprodstoragev1.blob.core
  .usgovcloudapi.net/meetingattachmentspublic/c6ebaa40-43ce-412a-9d8e-b2a0a5
  8b5d87.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/m
- eetingattachmentspublic/8755da26-3195-4c35-8a0b-84e2f84a228f.pdf\nClerk pa
- ge: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=4E4F726A-90C9-
- F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-10-19 20:05 UTC
+ eetingattachmentspublic/8755da26-3195-4c35-8a0b-84e2f84a228f.pdf\nVideo: h
+ ttps://vimeo.com/showcase/8925576?video=1238928881\nClerk page: https://ch
+ icityclerkelms.chicago.gov/Meeting/?meetingId=4E4F726A-90C9-F111-AAAE-001D
+ D80B58E5\nLast published by Clerk: 2026-10-26 23:35 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=4E4F726A-90C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

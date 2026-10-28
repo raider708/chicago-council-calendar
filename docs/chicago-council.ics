@@ -111,9 +111,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:54f057fc-81cc-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261023T211518Z
-LAST-MODIFIED:20261023T211518Z
-SEQUENCE:3582555
+DTSTAMP:20261028T125016Z
+LAST-MODIFIED:20261028T125016Z
+SEQUENCE:3589250
 DTSTART:20261023T160000Z
 DTEND:20261023T180000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -130,7 +130,7 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
  -9934-f5c8d76fdfd2.pdf\nVideo: https://vimeo.com/showcase/8925576?video=12
  38089923\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetin
  gId=54F057FC-81CC-F111-A05C-001DD80B58E5\nLast published by Clerk: 2026-10
- -23 21:15 UTC
+ -28 12:50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=54F057FC-81CC-F
  111-A05C-001DD80B58E5
 STATUS:CONFIRMED
@@ -138,9 +138,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:4e4f726a-90c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261026T233520Z
-LAST-MODIFIED:20261026T233520Z
-SEQUENCE:3587015
+DTSTAMP:20261028T125020Z
+LAST-MODIFIED:20261028T125020Z
+SEQUENCE:3589250
 DTSTART:20261026T150000Z
 DTEND:20261026T170000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -158,7 +158,7 @@ DESCRIPTION:Status: Scheduled & Published\nBudget and Finance\n- Office of
  eetingattachmentspublic/8755da26-3195-4c35-8a0b-84e2f84a228f.pdf\nVideo: h
  ttps://vimeo.com/showcase/8925576?video=1238928881\nClerk page: https://ch
  icityclerkelms.chicago.gov/Meeting/?meetingId=4E4F726A-90C9-F111-AAAE-001D
- D80B58E5\nLast published by Clerk: 2026-10-26 23:35 UTC
+ D80B58E5\nLast published by Clerk: 2026-10-28 12:50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=4E4F726A-90C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -166,9 +166,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:851ca01e-91c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261028T004516Z
-LAST-MODIFIED:20261028T004516Z
-SEQUENCE:3588525
+DTSTAMP:20261028T125025Z
+LAST-MODIFIED:20261028T125025Z
+SEQUENCE:3589250
 DTSTART:20261027T143000Z
 DTEND:20261027T163000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -187,7 +187,7 @@ DESCRIPTION:Status: Scheduled & Published\nInfrastructure Day 1\n- Departme
  -4c2b-b5d3-05084a6c6b65.pdf\nVideo: https://vimeo.com/showcase/8925576?vid
  eo=1239662145\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?m
  eetingId=851CA01E-91C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 20
- 26-10-28 00:45 UTC
+ 26-10-28 12:50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=851CA01E-91C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

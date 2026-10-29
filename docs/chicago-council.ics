@@ -8,34 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:f97d1d10-eabc-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261019T213019Z
-LAST-MODIFIED:20261019T213019Z
-SEQUENCE:3576810
-DTSTART:20261015T153000Z
-DTEND:20261015T173000Z
-SUMMARY:Committee on Immigrant and Refugee Rights
-LOCATION:Room 201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chi
- cago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nSummary: https://occprodstoragev
- 1.blob.core.usgovcloudapi.net/meetingattachmentspublic/f9aa62dc-3924-4472-
- 96b2-9e729943c56a.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclo
- udapi.net/meetingattachmentspublic/d36b25a2-edbc-f111-aaae-001dd80aa3cc.pd
- f\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingatt
- achmentspublic/c283ae24-bfc1-f111-aaae-001dd80efcf5.pdf\nOther: https://oc
- cprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/eb8666
- 21-ff59-4a07-9230-c8166ebac6ce.pdf\nMonthly Rule 45: https://occprodstorag
- ev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/a01a7456-58d5-4b8
- 7-83fd-06aadb16df41.pdf\nVideo: https://vimeo.com/showcase/8928487?video=1
- 235973744\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeti
- ngId=F97D1D10-EABC-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-1
- 0-19 21:30 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=F97D1D10-EABC-F
- 111-AAAE-001DD80B58E5
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:6ac88818-a8c8-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
 DTSTAMP:20261020T204519Z
 LAST-MODIFIED:20261020T204519Z

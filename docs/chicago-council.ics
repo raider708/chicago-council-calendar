@@ -143,9 +143,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2d73b4d3-91c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261029T005019Z
-LAST-MODIFIED:20261029T005019Z
-SEQUENCE:3589970
+DTSTAMP:20261029T212016Z
+LAST-MODIFIED:20261029T212016Z
+SEQUENCE:3591200
 DTSTART:20261028T143000Z
 DTEND:20261028T163000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -163,7 +163,7 @@ DESCRIPTION:Status: Scheduled & Published\nPublic Safety Day 1\n- Chicago P
  5-8485-4772-a4cc-ba5dbc5b5555.pdf\nVideo: https://vimeo.com/showcase/89255
  76?video=1240029984\nClerk page: https://chicityclerkelms.chicago.gov/Meet
  ing/?meetingId=2D73B4D3-91C9-F111-AAAE-001DD80B58E5\nLast published by Cle
- rk: 2026-10-29 00:50 UTC
+ rk: 2026-10-29 21:20 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=2D73B4D3-91C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -199,9 +199,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:481e7a8f-2bd2-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261028T132020Z
-LAST-MODIFIED:20261028T132020Z
-SEQUENCE:3589280
+DTSTAMP:20261029T190514Z
+LAST-MODIFIED:20261029T190514Z
+SEQUENCE:3591065
 DTSTART:20261102T160000Z
 DTEND:20261102T200000Z
 SUMMARY:City Council
@@ -210,11 +210,15 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
 DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting to consider allo
  cation of Concession Payments among city pension funds pursuant to Section
   2.3 of SO2026-0025407\nNotice: https://occprodstoragev1.blob.core.usgovcl
- oudapi.net/meetingattachmentspublic/d1e1bc51-650d-40d4-8f83-9479de0d74cf.p
- df\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingat
- tachmentspublic/2fe06c28-91f8-43b6-b9e6-f14405dc195d.pdf\nClerk page: http
- s://chicityclerkelms.chicago.gov/Meeting/?meetingId=481E7A8F-2BD2-F111-A05
- C-001DD80B58E5\nLast published by Clerk: 2026-10-28 13:20 UTC
+ oudapi.net/meetingattachmentspublic/27865fae-e82a-46e6-9cd7-138fd10b3774.p
+ df\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingat
+ tachmentspublic/d1e1bc51-650d-40d4-8f83-9479de0d74cf.pdf\nAgenda: https://
+ occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2fe0
+ 6c28-91f8-43b6-b9e6-f14405dc195d.pdf\nAgenda: https://occprodstoragev1.blo
+ b.core.usgovcloudapi.net/meetingattachmentspublic/6fcd5858-901d-4977-b4fc-
+ 1af4c4918454.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting
+ /?meetingId=481E7A8F-2BD2-F111-A05C-001DD80B58E5\nLast published by Clerk:
+  2026-10-29 19:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=481E7A8F-2BD2-F
  111-A05C-001DD80B58E5
 STATUS:CONFIRMED

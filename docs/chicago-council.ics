@@ -171,9 +171,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2d73b4d3-91c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261019T195606Z
-LAST-MODIFIED:20261019T195606Z
-SEQUENCE:3576716
+DTSTAMP:20261029T005019Z
+LAST-MODIFIED:20261029T005019Z
+SEQUENCE:3589970
 DTSTART:20261028T143000Z
 DTEND:20261028T163000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -188,9 +188,10 @@ DESCRIPTION:Status: Scheduled & Published\nPublic Safety Day 1\n- Chicago P
  nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattac
  hmentspublic/f3cd8e13-995d-4d33-b572-780d0b87a196.pdf\nAgenda: https://occ
  prodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/5bd7df6
- 5-8485-4772-a4cc-ba5dbc5b5555.pdf\nClerk page: https://chicityclerkelms.ch
- icago.gov/Meeting/?meetingId=2D73B4D3-91C9-F111-AAAE-001DD80B58E5\nLast pu
- blished by Clerk: 2026-10-19 19:56 UTC
+ 5-8485-4772-a4cc-ba5dbc5b5555.pdf\nVideo: https://vimeo.com/showcase/89255
+ 76?video=1240029984\nClerk page: https://chicityclerkelms.chicago.gov/Meet
+ ing/?meetingId=2D73B4D3-91C9-F111-AAAE-001DD80B58E5\nLast published by Cle
+ rk: 2026-10-29 00:50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=2D73B4D3-91C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

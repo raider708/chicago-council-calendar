@@ -171,9 +171,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:31eff839-92c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261019T195610Z
-LAST-MODIFIED:20261019T195610Z
-SEQUENCE:3576716
+DTSTAMP:20261030T025514Z
+LAST-MODIFIED:20261030T025514Z
+SEQUENCE:3591535
 DTSTART:20261029T143000Z
 DTEND:20261029T163000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -189,9 +189,10 @@ DESCRIPTION:Status: Scheduled & Published\nInfrastructure Day 2\n- Departme
  73.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meeti
  ngattachmentspublic/e5732fb9-f11f-4d90-9b3e-e80ad1397aac.pdf\nAgenda: http
  s://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/
- d1f0f7b0-a8d8-426f-9cfa-fa11a1f39324.pdf\nClerk page: https://chicityclerk
- elms.chicago.gov/Meeting/?meetingId=31EFF839-92C9-F111-AAAE-001DD80B58E5\n
- Last published by Clerk: 2026-10-19 19:56 UTC
+ d1f0f7b0-a8d8-426f-9cfa-fa11a1f39324.pdf\nVideo: https://vimeo.com/showcas
+ e/8925576?video=1240513369\nClerk page: https://chicityclerkelms.chicago.g
+ ov/Meeting/?meetingId=31EFF839-92C9-F111-AAAE-001DD80B58E5\nLast published
+  by Clerk: 2026-10-30 02:55 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=31EFF839-92C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

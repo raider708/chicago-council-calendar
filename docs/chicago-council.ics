@@ -588,6 +588,27 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:5c971227-8cd4-f111-a05c-001dd80fda55@chicityclerkelms.chicago.gov
+DTSTAMP:20261030T185516Z
+LAST-MODIFIED:20261030T185516Z
+SEQUENCE:3592495
+DTSTART:20261130T163000Z
+DTEND:20261130T183000Z
+SUMMARY:Committee on Finance
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
+  November 27 2026\, 10:30 AM    Votes may be taken.\nNotice: https://occpr
+ odstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/160c4b5b-
+ 8cd4-f111-a05c-001dd803894a.pdf\nClerk page: https://chicityclerkelms.chic
+ ago.gov/Meeting/?meetingId=5C971227-8CD4-F111-A05C-001DD80FDA55\nLast publ
+ ished by Clerk: 2026-10-30 18:55 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=5C971227-8CD4-F
+ 111-A05C-001DD80FDA55
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:898baf5a-97c8-f111-aaae-001dd803847b@chicityclerkelms.chicago.gov
 DTSTAMP:20261015T130004Z
 LAST-MODIFIED:20261015T130004Z

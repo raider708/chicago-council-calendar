@@ -589,6 +589,26 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:3d6ed0bf-ddd6-f111-a05c-001dd80fda55@chicityclerkelms.chicago.gov
+DTSTAMP:20261102T215339Z
+LAST-MODIFIED:20261102T215339Z
+SEQUENCE:3596993
+DTSTART:20261117T193000Z
+DTEND:20261117T213000Z
+SUMMARY:Committee on License and Consumer Protection
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/9c817afd-ddd6-f111-a
+ 05c-001dd80efcf5.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
+ ting/?meetingId=3D6ED0BF-DDD6-F111-A05C-001DD80FDA55\nLast published by Cl
+ erk: 2026-11-02 21:53 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3D6ED0BF-DDD6-F
+ 111-A05C-001DD80FDA55
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:5c971227-8cd4-f111-a05c-001dd80fda55@chicityclerkelms.chicago.gov
 DTSTAMP:20261030T185516Z
 LAST-MODIFIED:20261030T185516Z

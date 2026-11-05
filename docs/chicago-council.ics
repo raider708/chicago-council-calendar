@@ -178,9 +178,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:8a97d1ca-92c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261019T195615Z
-LAST-MODIFIED:20261019T195615Z
-SEQUENCE:3576716
+DTSTAMP:20261105T034017Z
+LAST-MODIFIED:20261105T034017Z
+SEQUENCE:3600220
 DTSTART:20261104T153000Z
 DTEND:20261104T173000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -197,9 +197,9 @@ DESCRIPTION:Status: Scheduled & Published\nEconomic Development & The Arts\
  storagev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4959837d-c7
  30-4464-9718-5c75f21e0b31.pdf\nNotice: https://occprodstoragev1.blob.core.
  usgovcloudapi.net/meetingattachmentspublic/4c975a51-ed53-47f7-b062-7edadaf
- 7a2b4.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeti
- ngId=8A97D1CA-92C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-1
- 0-19 19:56 UTC
+ 7a2b4.pdf\nVideo: https://vimeo.com/1242480051\nClerk page: https://chicit
+ yclerkelms.chicago.gov/Meeting/?meetingId=8A97D1CA-92C9-F111-AAAE-001DD80B
+ 58E5\nLast published by Clerk: 2026-11-05 03:40 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=8A97D1CA-92C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED

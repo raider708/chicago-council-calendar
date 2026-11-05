@@ -121,9 +121,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:31eff839-92c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261030T025514Z
-LAST-MODIFIED:20261030T025514Z
-SEQUENCE:3591535
+DTSTAMP:20261105T004018Z
+LAST-MODIFIED:20261105T004018Z
+SEQUENCE:3600040
 DTSTART:20261029T143000Z
 DTEND:20261029T163000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -142,7 +142,7 @@ DESCRIPTION:Status: Scheduled & Published\nInfrastructure Day 2\n- Departme
  d1f0f7b0-a8d8-426f-9cfa-fa11a1f39324.pdf\nVideo: https://vimeo.com/showcas
  e/8925576?video=1240513369\nClerk page: https://chicityclerkelms.chicago.g
  ov/Meeting/?meetingId=31EFF839-92C9-F111-AAAE-001DD80B58E5\nLast published
-  by Clerk: 2026-10-30 02:55 UTC
+  by Clerk: 2026-11-05 00:40 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=31EFF839-92C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -150,9 +150,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:481e7a8f-2bd2-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261102T181515Z
-LAST-MODIFIED:20261102T181515Z
-SEQUENCE:3596775
+DTSTAMP:20261105T010520Z
+LAST-MODIFIED:20261105T010520Z
+SEQUENCE:3600065
 DTSTART:20261102T160000Z
 DTEND:20261102T200000Z
 SUMMARY:City Council
@@ -170,7 +170,7 @@ DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting to consider allo
  1af4c4918454.pdf\nVideo: https://vimeo.com/showcase/citycouncil?video=1241
  090076\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingI
  d=481E7A8F-2BD2-F111-A05C-001DD80B58E5\nLast published by Clerk: 2026-11-0
- 2 18:15 UTC
+ 5 01:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=481E7A8F-2BD2-F
  111-A05C-001DD80B58E5
 STATUS:CONFIRMED

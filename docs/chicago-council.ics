@@ -213,9 +213,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1d6dff77-94c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261109T134521Z
-LAST-MODIFIED:20261109T134521Z
-SEQUENCE:3606585
+DTSTAMP:20261110T014516Z
+LAST-MODIFIED:20261110T014516Z
+SEQUENCE:3607305
 DTSTART:20261109T150000Z
 DTEND:20261109T170000Z
 SUMMARY:Committee on Budget and Government Operations
@@ -235,9 +235,10 @@ DESCRIPTION:Status: Scheduled & Published\nProcurement\, HR\, and Elections
  enda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachme
  ntspublic/b928b164-78d1-498b-8da7-9a897e760400.pdf\nAgenda: https://occpro
  dstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/fd112d41-b
- f03-4b1a-acdf-0fd9abf6c638.pdf\nClerk page: https://chicityclerkelms.chica
- go.gov/Meeting/?meetingId=1D6DFF77-94C9-F111-AAAE-001DD80B58E5\nLast publi
- shed by Clerk: 2026-11-09 13:45 UTC
+ f03-4b1a-acdf-0fd9abf6c638.pdf\nVideo: https://vimeo.com/manage/videos/124
+ 4474142\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeting
+ Id=1D6DFF77-94C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-11-
+ 10 01:45 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=1D6DFF77-94C9-F
  111-AAAE-001DD80B58E5
 STATUS:CONFIRMED
@@ -496,9 +497,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3d6ed0bf-ddd6-f111-a05c-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261109T221704Z
-LAST-MODIFIED:20261109T221704Z
-SEQUENCE:3607097
+DTSTAMP:20261109T223513Z
+LAST-MODIFIED:20261109T223513Z
+SEQUENCE:3607115
 DTSTART:20261117T193000Z
 DTEND:20261117T213000Z
 SUMMARY:Committee on License and Consumer Protection
@@ -508,7 +509,7 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  .blob.core.usgovcloudapi.net/meetingattachmentspublic/9c817afd-ddd6-f111-a
  05c-001dd80efcf5.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
  ting/?meetingId=3D6ED0BF-DDD6-F111-A05C-001DD80FDA55\nLast published by Cl
- erk: 2026-11-09 22:17 UTC
+ erk: 2026-11-09 22:35 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3D6ED0BF-DDD6-F
  111-A05C-001DD80FDA55
 STATUS:CONFIRMED

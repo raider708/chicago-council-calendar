@@ -8,34 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:481e7a8f-2bd2-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261109T163019Z
-LAST-MODIFIED:20261109T163019Z
-SEQUENCE:3606750
-DTSTART:20261102T160000Z
-DTEND:20261102T200000Z
-SUMMARY:City Council
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting to consider allo
- cation of Concession Payments among city pension funds pursuant to Section
-  2.3 of SO2026-0025407\nNotice: https://occprodstoragev1.blob.core.usgovcl
- oudapi.net/meetingattachmentspublic/27865fae-e82a-46e6-9cd7-138fd10b3774.p
- df\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingat
- tachmentspublic/d1e1bc51-650d-40d4-8f83-9479de0d74cf.pdf\nAgenda: https://
- occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/2fe0
- 6c28-91f8-43b6-b9e6-f14405dc195d.pdf\nAgenda: https://occprodstoragev1.blo
- b.core.usgovcloudapi.net/meetingattachmentspublic/6fcd5858-901d-4977-b4fc-
- 1af4c4918454.pdf\nVideo: https://vimeo.com/showcase/citycouncil?video=1241
- 090076\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingI
- d=481E7A8F-2BD2-F111-A05C-001DD80B58E5\nLast published by Clerk: 2026-11-0
- 9 16:30 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=481E7A8F-2BD2-F
- 111-A05C-001DD80B58E5
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:8a97d1ca-92c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
 DTSTAMP:20261109T144022Z
 LAST-MODIFIED:20261109T144022Z
@@ -335,9 +307,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:7f0b31cb-9cc9-f111-aaae-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261112T160014Z
-LAST-MODIFIED:20261112T160014Z
-SEQUENCE:3611040
+DTSTAMP:20261116T172222Z
+LAST-MODIFIED:20261116T172222Z
+SEQUENCE:3616882
 DTSTART:20261116T160000Z
 DTEND:20261116T180000Z
 SUMMARY:Committee on Finance
@@ -347,9 +319,10 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
   November 13th\, 2026\, 10:00 AM\nNotice: https://occprodstoragev1.blob.co
  re.usgovcloudapi.net/meetingattachmentspublic/5edb40ec-9cc9-f111-aaae-001d
  d80aa3cc.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net
- /meetingattachmentspublic/38d88799-8e78-4c02-b634-893ba4be391a.pdf\nClerk 
- page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=7F0B31CB-9CC
- 9-F111-AAAE-001DD80FDA55\nLast published by Clerk: 2026-11-12 16:00 UTC
+ /meetingattachmentspublic/38d88799-8e78-4c02-b634-893ba4be391a.pdf\nVideo:
+  https://vimeo.com/manage/videos/1246380267\nClerk page: https://chicitycl
+ erkelms.chicago.gov/Meeting/?meetingId=7F0B31CB-9CC9-F111-AAAE-001DD80FDA5
+ 5\nLast published by Clerk: 2026-11-16 17:22 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=7F0B31CB-9CC9-F
  111-AAAE-001DD80FDA55
 STATUS:CONFIRMED
@@ -357,9 +330,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:64c3d3d4-0ccf-f111-a05c-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20261113T004015Z
-LAST-MODIFIED:20261113T004015Z
-SEQUENCE:3611560
+DTSTAMP:20261116T173020Z
+LAST-MODIFIED:20261116T173020Z
+SEQUENCE:3616890
 DTSTART:20261116T163000Z
 DTEND:20261116T183000Z
 SUMMARY:Committee on Economic\, Capital and Technology Development
@@ -369,9 +342,10 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
     November 13\, 2026\, 12:00 PM\nAgenda: https://occprodstoragev1.blob.co
  re.usgovcloudapi.net/meetingattachmentspublic/1f54e2e4-dc1a-49db-bae2-9bcb
  f8f86653.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net
- /meetingattachmentspublic/2720d974-d155-41d1-9be9-87c2c0939f35.pdf\nClerk 
- page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=64C3D3D4-0CC
- F-F111-A05C-001DD80AA3CC\nLast published by Clerk: 2026-11-13 00:40 UTC
+ /meetingattachmentspublic/2720d974-d155-41d1-9be9-87c2c0939f35.pdf\nVideo:
+  https://vimeo.com/manage/videos/1246429996\nClerk page: https://chicitycl
+ erkelms.chicago.gov/Meeting/?meetingId=64C3D3D4-0CCF-F111-A05C-001DD80AA3C
+ C\nLast published by Clerk: 2026-11-16 17:30 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=64C3D3D4-0CCF-F
  111-A05C-001DD80AA3CC
 STATUS:CONFIRMED
@@ -445,9 +419,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a22c91a3-6bdf-f111-84ea-001dd803894a@chicityclerkelms.chicago.gov
-DTSTAMP:20261113T215515Z
-LAST-MODIFIED:20261113T215515Z
-SEQUENCE:3612835
+DTSTAMP:20261116T163018Z
+LAST-MODIFIED:20261116T163018Z
+SEQUENCE:3616830
 DTSTART:20261118T160000Z
 DTEND:20261118T200000Z
 SUMMARY:City Council
@@ -456,16 +430,26 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
 DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting for immediate co
  nsideration of resolution urging Illinois General Assembly to advance cons
  titutional amendment allowing statewide tax on annual incomes over $1\,000
- \,000\, immediate consideration of ordinance O2026-0028837 pertaining to p
- rocurement process and establishment of date and time for next regularly s
- cheduled City Council meeting\nNotice: https://occprodstoragev1.blob.core.
- usgovcloudapi.net/meetingattachmentspublic/549b5239-cd45-46d9-a921-553ef4d
- 62bc9.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/me
- etingattachmentspublic/34ff750e-7a31-45c8-85fa-3bf2d76a063a.pdf\nNotice: h
- ttps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubl
- ic/7d15d44e-0e2c-49c5-9967-2b303aed4801.pdf\nClerk page: https://chicitycl
- erkelms.chicago.gov/Meeting/?meetingId=A22C91A3-6BDF-F111-84EA-001DD803894
- A\nLast published by Clerk: 2026-11-13 21:55 UTC
+ \,000 (R2026-0030189)\, immediate consideration of ordinance O2026-0028837
+  pertaining to procurement process\, immediate consideration of ordinance 
+ authorizing Chair of Committee on Finance to engage professional services 
+ firms to conduct independent review of statements made regarding City's fi
+ nancial condition (O2026-0030190) and establishment of date and time for n
+ ext regularly scheduled City Council meeting\nNotice: https://occprodstora
+ gev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/549b5239-cd45-46
+ d9-a921-553ef4d62bc9.pdf\nAgenda: https://occprodstoragev1.blob.core.usgov
+ cloudapi.net/meetingattachmentspublic/228abc25-c1aa-44d1-9969-25cee8c9e3c1
+ .pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meeting
+ attachmentspublic/34ff750e-7a31-45c8-85fa-3bf2d76a063a.pdf\nNotice: https:
+ //occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/12
+ 30d2a8-a0f8-4072-a6cc-e3772d64eb87.pdf\nNotice: https://occprodstoragev1.b
+ lob.core.usgovcloudapi.net/meetingattachmentspublic/7d15d44e-0e2c-49c5-996
+ 7-2b303aed4801.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclouda
+ pi.net/meetingattachmentspublic/3dd21715-6207-4771-9ada-7010d38daaec.pdf\n
+ Notice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattach
+ mentspublic/f0ad0cd5-32a5-449f-8e4a-84408808408a.pdf\nClerk page: https://
+ chicityclerkelms.chicago.gov/Meeting/?meetingId=A22C91A3-6BDF-F111-84EA-00
+ 1DD803894A\nLast published by Clerk: 2026-11-16 16:30 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=A22C91A3-6BDF-F
  111-84EA-001DD803894A
 STATUS:CONFIRMED
@@ -641,6 +625,29 @@ DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
  erk: 2026-10-15 13:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=93D04C47-98C8-F
  111-AAAE-001DD803847B
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0220def4-dde1-f111-84ea-001dd80aa3cc@chicityclerkelms.chicago.gov
+DTSTAMP:20261116T213018Z
+LAST-MODIFIED:20261116T213018Z
+SEQUENCE:3617130
+DTSTART:20261210T160000Z
+DTEND:20261210T180000Z
+SUMMARY:Committee on Public Safety
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nChange of Times Only to 10:00 AM
+ \nSubject Matter Hearing and Committee Meeting.  \nPublic Comment Deadline
+ :  December 9\, 2026\,  10:00 AM\nNotice: https://occprodstoragev1.blob.co
+ re.usgovcloudapi.net/meetingattachmentspublic/929ef164-f717-49dc-b887-fca3
+ a7219b65.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net
+ /meetingattachmentspublic/a565dac5-f680-40ba-8aea-3a2d3193338c.pdf\nClerk 
+ page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=0220DEF4-DDE
+ 1-F111-84EA-001DD80AA3CC\nLast published by Clerk: 2026-11-16 21:30 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=0220DEF4-DDE1-F
+ 111-84EA-001DD80AA3CC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

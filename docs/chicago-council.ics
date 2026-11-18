@@ -8,35 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8a97d1ca-92c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261109T144022Z
-LAST-MODIFIED:20261109T144022Z
-SEQUENCE:3606640
-DTSTART:20261104T153000Z
-DTEND:20261104T173000Z
-SUMMARY:Committee on Budget and Government Operations
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nEconomic Development & The Arts\
- n- Department of Planning and Development \n- Department of Housing \n- De
- partment of Cultural Affairs and Special Events\n- Department of Business 
- Affairs and Consumer Protection\n\n*Public comments will be available at t
- he beginning of each scheduled hearing date prior to Hearings' start. Ther
- e will be no other public participation once hearings are in session.\nAge
- nda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmen
- tspublic/077463a6-1b09-4ba7-9ab7-3dfd2f0c7cef.pdf\nAgenda: https://occprod
- storagev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/4959837d-c7
- 30-4464-9718-5c75f21e0b31.pdf\nNotice: https://occprodstoragev1.blob.core.
- usgovcloudapi.net/meetingattachmentspublic/4c975a51-ed53-47f7-b062-7edadaf
- 7a2b4.pdf\nVideo: https://vimeo.com/1242480051\nClerk page: https://chicit
- yclerkelms.chicago.gov/Meeting/?meetingId=8A97D1CA-92C9-F111-AAAE-001DD80B
- 58E5\nLast published by Clerk: 2026-11-09 14:40 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=8A97D1CA-92C9-F
- 111-AAAE-001DD80B58E5
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:93474b73-93c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
 DTSTAMP:20261109T144519Z
 LAST-MODIFIED:20261109T144519Z
@@ -376,9 +347,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:86ab53b2-bccc-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261117T182020Z
-LAST-MODIFIED:20261117T182020Z
-SEQUENCE:3618380
+DTSTAMP:20261118T152519Z
+LAST-MODIFIED:20261118T152519Z
+SEQUENCE:3619645
 DTSTART:20261117T163000Z
 DTEND:20261117T183000Z
 SUMMARY:Committee on Housing and Real Estate
@@ -387,11 +358,13 @@ LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
 DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
   November 16\, 2026\, 5:00 PM\nAgenda: https://occprodstoragev1.blob.core.
  usgovcloudapi.net/meetingattachmentspublic/5ee4d7ae-6854-4e99-a37f-5c2e5c1
- c34cb.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/me
- etingattachmentspublic/911ddc63-4975-4c0f-843d-9aa401e9e206.pdf\nVideo: ht
- tps://vimeo.com/showcase/8928563?video=1247332052\nClerk page: https://chi
- cityclerkelms.chicago.gov/Meeting/?meetingId=86AB53B2-BCCC-F111-A05C-001DD
- 80B58E5\nLast published by Clerk: 2026-11-17 18:20 UTC
+ c34cb.pdf\nSummary: https://occprodstoragev1.blob.core.usgovcloudapi.net/m
+ eetingattachmentspublic/f86b8102-761d-4af8-934d-cd7f4fdc7231.pdf\nNotice: 
+ https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspub
+ lic/911ddc63-4975-4c0f-843d-9aa401e9e206.pdf\nVideo: https://vimeo.com/sho
+ wcase/8928563?video=1247332052\nClerk page: https://chicityclerkelms.chica
+ go.gov/Meeting/?meetingId=86AB53B2-BCCC-F111-A05C-001DD80B58E5\nLast publi
+ shed by Clerk: 2026-11-18 15:25 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=86AB53B2-BCCC-F
  111-A05C-001DD80B58E5
 STATUS:CONFIRMED
@@ -399,21 +372,23 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3d6ed0bf-ddd6-f111-a05c-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261117T213825Z
-LAST-MODIFIED:20261117T213825Z
-SEQUENCE:3618578
+DTSTAMP:20261118T155958Z
+LAST-MODIFIED:20261118T155958Z
+SEQUENCE:3619679
 DTSTART:20261117T193000Z
 DTEND:20261117T213000Z
 SUMMARY:Committee on License and Consumer Protection
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/9c817afd-ddd6-f111-a
- 05c-001dd80efcf5.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovclou
- dapi.net/meetingattachmentspublic/e3c671a7-855d-4e4d-a575-c8dd5859c88d.pdf
- \nVideo: https://vimeo.com/showcase/8928556?video=1247718291\nClerk page: 
- https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3D6ED0BF-DDD6-F111
- -A05C-001DD80FDA55\nLast published by Clerk: 2026-11-17 21:38 UTC
+DESCRIPTION:Status: Scheduled & Published\nSummary: https://occprodstoragev
+ 1.blob.core.usgovcloudapi.net/meetingattachmentspublic/8ac3162e-d359-4636-
+ b35c-34ed9f7558ea.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclo
+ udapi.net/meetingattachmentspublic/9c817afd-ddd6-f111-a05c-001dd80efcf5.pd
+ f\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingatt
+ achmentspublic/e3c671a7-855d-4e4d-a575-c8dd5859c88d.pdf\nVideo: https://vi
+ meo.com/showcase/8928556?video=1247718291\nClerk page: https://chicitycler
+ kelms.chicago.gov/Meeting/?meetingId=3D6ED0BF-DDD6-F111-A05C-001DD80FDA55\
+ nLast published by Clerk: 2026-11-18 15:59 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=3D6ED0BF-DDD6-F
  111-A05C-001DD80FDA55
 STATUS:CONFIRMED
@@ -421,9 +396,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a22c91a3-6bdf-f111-84ea-001dd803894a@chicityclerkelms.chicago.gov
-DTSTAMP:20261116T163018Z
-LAST-MODIFIED:20261116T163018Z
-SEQUENCE:3616830
+DTSTAMP:20261118T214018Z
+LAST-MODIFIED:20261118T214018Z
+SEQUENCE:3620020
 DTSTART:20261118T160000Z
 DTEND:20261118T200000Z
 SUMMARY:City Council
@@ -449,9 +424,10 @@ DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting for immediate co
  7-2b303aed4801.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclouda
  pi.net/meetingattachmentspublic/3dd21715-6207-4771-9ada-7010d38daaec.pdf\n
  Notice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattach
- mentspublic/f0ad0cd5-32a5-449f-8e4a-84408808408a.pdf\nClerk page: https://
- chicityclerkelms.chicago.gov/Meeting/?meetingId=A22C91A3-6BDF-F111-84EA-00
- 1DD803894A\nLast published by Clerk: 2026-11-16 16:30 UTC
+ mentspublic/f0ad0cd5-32a5-449f-8e4a-84408808408a.pdf\nVideo: https://vimeo
+ .com/showcase/citycouncil?video=1248123776\nClerk page: https://chicitycle
+ rkelms.chicago.gov/Meeting/?meetingId=A22C91A3-6BDF-F111-84EA-001DD803894A
+ \nLast published by Clerk: 2026-11-18 21:40 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=A22C91A3-6BDF-F
  111-84EA-001DD803894A
 STATUS:CONFIRMED
@@ -459,25 +435,26 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5b47b109-aadf-f111-84ea-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261113T221014Z
-LAST-MODIFIED:20261113T221014Z
-SEQUENCE:3612850
+DTSTAMP:20261118T215015Z
+LAST-MODIFIED:20261118T215015Z
+SEQUENCE:3620030
 DTSTART:20261118T180000Z
 DTEND:20261118T220000Z
 SUMMARY:City Council
 LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
  treet - Chicago\, IL 60602
 DESCRIPTION:Status: Scheduled & Published\nSpecial meeting for sole purpose
-  and immediate consideration of OR2026-0028873\, an order directing the Ex
+  and immediate consideration of Or2026-0028873\, an order directing the Ex
  ecutive Director of Public Safety Administration to conduct audit of each 
  city vendor that maintains\, manages\, or otherwise provides automatic lic
  ense plate readers to determine city compliance with TRUST Act\nNotice: ht
  tps://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspubli
  c/cba86a79-f3f8-403a-82f0-58d93c460e10.pdf\nAgenda: https://occprodstorage
  v1.blob.core.usgovcloudapi.net/meetingattachmentspublic/07b13f44-3f21-4fba
- -b3a9-30fbf71f4869.pdf\nClerk page: https://chicityclerkelms.chicago.gov/M
- eeting/?meetingId=5B47B109-AADF-F111-84EA-001DD80B58E5\nLast published by 
- Clerk: 2026-11-13 22:10 UTC
+ -b3a9-30fbf71f4869.pdf\nVideo: https://vimeo.com/showcase/citycouncil?vide
+ o=1248127509\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?me
+ etingId=5B47B109-AADF-F111-84EA-001DD80B58E5\nLast published by Clerk: 202
+ 6-11-18 21:50 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=5B47B109-AADF-F
  111-84EA-001DD80B58E5
 STATUS:CONFIRMED

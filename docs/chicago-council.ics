@@ -8,36 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:93474b73-93c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261109T144519Z
-LAST-MODIFIED:20261109T144519Z
-SEQUENCE:3606645
-DTSTART:20261105T153000Z
-DTEND:20261105T173000Z
-SUMMARY:Committee on Budget and Government Operations
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nPublic Safety Day 2\n- Chicago F
- ire Department\n- Office of Emergency Management and Communication \n- Chi
- cago Animal Care and Control\n- Office of Public Safety Administration\n- 
- Civilian Office of Police Accountability\n\n*Public comments will be avail
- able at the beginning of each scheduled hearing date prior to Hearings' st
- art. There will be no other public participation once hearings are in sess
- ion.\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meeting
- attachmentspublic/2bcc0f31-1e9b-4ee9-989b-b5434270f9a4.pdf\nAgenda: https:
- //occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c3
- b7092e-1eb7-4259-b45f-97c49adebde1.pdf\nAgenda: https://occprodstoragev1.b
- lob.core.usgovcloudapi.net/meetingattachmentspublic/a7ee866d-f413-493a-8b8
- d-f51b6b8efe68.pdf\nVideo: https://vimeo.com/showcase/8925576?video=124353
- 4584\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=
- 93474B73-93C9-F111-AAAE-001DD80B58E5\nLast published by Clerk: 2026-11-09 
- 14:45 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=93474B73-93C9-F
- 111-AAAE-001DD80B58E5
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:62aebfec-93c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
 DTSTAMP:20261109T144522Z
 LAST-MODIFIED:20261109T144522Z
@@ -324,9 +294,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c3d059c8-d0cb-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261117T205024Z
-LAST-MODIFIED:20261117T205024Z
-SEQUENCE:3618530
+DTSTAMP:20261119T163520Z
+LAST-MODIFIED:20261119T163520Z
+SEQUENCE:3621155
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
 SUMMARY:Committee on Zoning\, Landmarks and Building Standards
@@ -336,10 +306,12 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
   November 16\, 2026\, 8:00 AM\nAgenda: https://occprodstoragev1.blob.core.
  usgovcloudapi.net/meetingattachmentspublic/61b71d6c-fcac-4a80-900b-9616caa
  df4c1.pdf\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net/me
- etingattachmentspublic/2369d5da-fe0a-475a-b718-9108b92c1a56.pdf\nVideo: ht
- tps://vimeo.com/showcase/8928576?video=1247331158\nClerk page: https://chi
- cityclerkelms.chicago.gov/Meeting/?meetingId=C3D059C8-D0CB-F111-A05C-001DD
- 80B58E5\nLast published by Clerk: 2026-11-17 20:50 UTC
+ etingattachmentspublic/2369d5da-fe0a-475a-b718-9108b92c1a56.pdf\nSummary: 
+ https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspub
+ lic/e4b7a09f-9fa0-4ef0-a4c2-8b9f74612fd8.pdf\nVideo: https://vimeo.com/sho
+ wcase/8928576?video=1247331158\nClerk page: https://chicityclerkelms.chica
+ go.gov/Meeting/?meetingId=C3D059C8-D0CB-F111-A05C-001DD80B58E5\nLast publi
+ shed by Clerk: 2026-11-19 16:35 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=C3D059C8-D0CB-F
  111-A05C-001DD80B58E5
 STATUS:CONFIRMED
@@ -648,6 +620,27 @@ DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
  11-13 16:04 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=DE8DE804-76DF-F
  111-84EA-001DD80EFCF5
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e47d115d-3de4-f111-84ea-001dd80aa3cc@chicityclerkelms.chicago.gov
+DTSTAMP:20261119T172521Z
+LAST-MODIFIED:20261119T172521Z
+SEQUENCE:3621205
+DTSTART:20261215T160000Z
+DTEND:20261215T180000Z
+SUMMARY:Committee on Zoning\, Landmarks and Building Standards
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
+  December 14\, 2026\, 8:00 AM\nNotice: https://occprodstoragev1.blob.core.
+ usgovcloudapi.net/meetingattachmentspublic/09fa7693-da96-444e-8a4a-9fb6d4c
+ e2dcc.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meeti
+ ngId=E47D115D-3DE4-F111-84EA-001DD80AA3CC\nLast published by Clerk: 2026-1
+ 1-19 17:25 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=E47D115D-3DE4-F
+ 111-84EA-001DD80AA3CC
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

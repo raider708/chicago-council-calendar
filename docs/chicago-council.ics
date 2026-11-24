@@ -8,39 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d7bbf3e9-94c9-f111-aaae-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261112T213519Z
-LAST-MODIFIED:20261112T213519Z
-SEQUENCE:3611375
-DTSTART:20261110T150000Z
-DTEND:20261110T170000Z
-SUMMARY:Committee on Budget and Government Operations
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Scheduled & Published\nOversight\, Independent Bodies &
-  the Law Department\n- License Appeal Commission\n- Police Board\n- Commun
- ity Commission for Public Safety and Accountability\n- Board of Ethics\n- 
- Office of the Inspector General\n- Department of Law\n\n*Public comments w
- ill be available at the beginning of each scheduled hearing date prior to 
- Hearings' start. There will be no other public participation once hearings
-  are in session.\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi
- .net/meetingattachmentspublic/c427ef01-6eb2-4e9e-9ad9-1a84e4472c5a.pdf\nAg
- enda: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachme
- ntspublic/09d7955c-6d75-4d9e-8b40-ccb2c13d43da.pdf\nNotice: https://occpro
- dstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/b1114bf9-b
- 08c-41b0-bd15-949f5c57378f.pdf\nAgenda: https://occprodstoragev1.blob.core
- .usgovcloudapi.net/meetingattachmentspublic/b9a82d43-2686-45a9-8566-df723d
- 98a221.pdf\nAgenda: https://occprodstoragev1.blob.core.usgovcloudapi.net/m
- eetingattachmentspublic/f9d29107-312a-4310-a570-90266eded015.pdf\nVideo: h
- ttps://vimeo.com/showcase/8925576?video=1245306937\nClerk page: https://ch
- icityclerkelms.chicago.gov/Meeting/?meetingId=D7BBF3E9-94C9-F111-AAAE-001D
- D80B58E5\nLast published by Clerk: 2026-11-12 21:35 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=D7BBF3E9-94C9-F
- 111-AAAE-001DD80B58E5
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:247de37c-cbcc-f111-a05b-001dd80fda55@chicityclerkelms.chicago.gov
 DTSTAMP:20261112T220909Z
 LAST-MODIFIED:20261112T220909Z
@@ -437,19 +404,21 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:08a631b6-4fe7-f111-84e9-001dd80aa3cc@chicityclerkelms.chicago.gov
-DTSTAMP:20261123T182502Z
-LAST-MODIFIED:20261123T182502Z
-SEQUENCE:3627025
+DTSTAMP:20261124T192501Z
+LAST-MODIFIED:20261124T192501Z
+SEQUENCE:3628525
 DTSTART:20261201T193000Z
 DTEND:20261201T213000Z
 SUMMARY:Committee on Special Events\, Cultural Affairs and Recreation
 LOCATION:201A\, 2nd Floor\, City Hall\, 121 North LaSalle Street - Chicago\
  , IL 60602
-DESCRIPTION:Status: Scheduled & Published\nNotice: https://occprodstoragev1
- .blob.core.usgovcloudapi.net/meetingattachmentspublic/d3faeb5e-50e7-f111-8
- 4e9-001dd80fda55.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Mee
- ting/?meetingId=08A631B6-4FE7-F111-84E9-001DD80AA3CC\nLast published by Cl
- erk: 2026-11-23 18:25 UTC
+DESCRIPTION:Status: Scheduled & Published\nAgenda: https://occprodstoragev1
+ .blob.core.usgovcloudapi.net/meetingattachmentspublic/e47d637a-35e8-f111-8
+ 4e9-001dd80aa3cc.pdf\nNotice: https://occprodstoragev1.blob.core.usgovclou
+ dapi.net/meetingattachmentspublic/d3faeb5e-50e7-f111-84e9-001dd80fda55.pdf
+ \nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingId=08A6
+ 31B6-4FE7-F111-84E9-001DD80AA3CC\nLast published by Clerk: 2026-11-24 19:2
+ 5 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=08A631B6-4FE7-F
  111-84E9-001DD80AA3CC
 STATUS:CONFIRMED

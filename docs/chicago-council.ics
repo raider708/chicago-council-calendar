@@ -362,9 +362,9 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:5c971227-8cd4-f111-a05c-001dd80fda55@chicityclerkelms.chicago.gov
-DTSTAMP:20261030T185516Z
-LAST-MODIFIED:20261030T185516Z
-SEQUENCE:3592495
+DTSTAMP:20261125T150502Z
+LAST-MODIFIED:20261125T150502Z
+SEQUENCE:3629705
 DTSTART:20261130T163000Z
 DTEND:20261130T183000Z
 SUMMARY:Committee on Finance
@@ -373,9 +373,11 @@ LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
 DESCRIPTION:Status: Scheduled & Published\nWritten Public Comment Deadline:
   November 27 2026\, 10:30 AM    Votes may be taken.\nNotice: https://occpr
  odstoragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/160c4b5b-
- 8cd4-f111-a05c-001dd803894a.pdf\nClerk page: https://chicityclerkelms.chic
- ago.gov/Meeting/?meetingId=5C971227-8CD4-F111-A05C-001DD80FDA55\nLast publ
- ished by Clerk: 2026-10-30 18:55 UTC
+ 8cd4-f111-a05c-001dd803894a.pdf\nAgenda: https://occprodstoragev1.blob.cor
+ e.usgovcloudapi.net/meetingattachmentspublic/987d964b-1c7b-4f6d-86f7-4c2d1
+ 8f4ad67.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?mee
+ tingId=5C971227-8CD4-F111-A05C-001DD80FDA55\nLast published by Clerk: 2026
+ -11-25 15:05 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=5C971227-8CD4-F
  111-A05C-001DD80FDA55
 STATUS:CONFIRMED
@@ -421,6 +423,28 @@ DESCRIPTION:Status: Scheduled & Published\nAgenda: https://occprodstoragev1
  5 UTC
 URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=08A631B6-4FE7-F
  111-84E9-001DD80AA3CC
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:110e3cf4-d3e8-f111-84e9-001dd80efcf5@chicityclerkelms.chicago.gov
+DTSTAMP:20261125T134001Z
+LAST-MODIFIED:20261125T134001Z
+SEQUENCE:3629620
+DTSTART:20261202T160000Z
+DTEND:20261202T200000Z
+SUMMARY:City Council
+LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
+ treet - Chicago\, IL 60602
+DESCRIPTION:Status: Scheduled & Published\nSpecial Meeting for reception of
+  new council introductions and committee referrals and for consideration o
+ f various referenda introductions to be placed on February 2027 ballot\nNo
+ tice: https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachme
+ ntspublic/8fb7da51-2539-439d-8f65-573c84495d2b.pdf\nClerk page: https://ch
+ icityclerkelms.chicago.gov/Meeting/?meetingId=110E3CF4-D3E8-F111-84E9-001D
+ D80EFCF5\nLast published by Clerk: 2026-11-25 13:40 UTC
+URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=110E3CF4-D3E8-F
+ 111-84E9-001DD80EFCF5
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT

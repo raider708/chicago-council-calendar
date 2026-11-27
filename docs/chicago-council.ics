@@ -8,32 +8,6 @@ X-WR-TIMEZONE:America/Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:5b56424b-d4d2-f111-a05c-001dd80b58e5@chicityclerkelms.chicago.gov
-DTSTAMP:20261112T202018Z
-LAST-MODIFIED:20261112T202018Z
-SEQUENCE:3611300
-DTSTART:20261113T183000Z
-DTEND:20261113T203000Z
-SUMMARY:CANCELLED: Committee on Pedestrian and Traffic Safety
-LOCATION:City Council Chamber\, 2nd Floor\, City Hall\, 121 North LaSalle S
- treet - Chicago\, IL 60602
-DESCRIPTION:Status: Cancelled\nDirect Introduction Deadline Tuesday Novembe
- r 3rd at 5pm\nNotice: https://occprodstoragev1.blob.core.usgovcloudapi.net
- /meetingattachmentspublic/aa4175bf-d4d2-f111-a05c-001dd803894a.pdf\nAgenda
- : https://occprodstoragev1.blob.core.usgovcloudapi.net/meetingattachmentsp
- ublic/04973eaa-b168-4d16-b52b-9537585947ec.pdf\nAgenda: https://occprodsto
- ragev1.blob.core.usgovcloudapi.net/meetingattachmentspublic/c0a518be-e338-
- 4b4f-b153-d449e86ead6f.pdf\nNotice: https://occprodstoragev1.blob.core.usg
- ovcloudapi.net/meetingattachmentspublic/c7827936-d6de-f111-84ea-001dd80efc
- f5.pdf\nClerk page: https://chicityclerkelms.chicago.gov/Meeting/?meetingI
- d=5B56424B-D4D2-F111-A05C-001DD80B58E5\nLast published by Clerk: 2026-11-1
- 2 20:20 UTC
-URL:https://chicityclerkelms.chicago.gov/Meeting/?meetingId=5B56424B-D4D2-F
- 111-A05C-001DD80B58E5
-STATUS:CANCELLED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:7f0b31cb-9cc9-f111-aaae-001dd80fda55@chicityclerkelms.chicago.gov
 DTSTAMP:20261116T172222Z
 LAST-MODIFIED:20261116T172222Z
